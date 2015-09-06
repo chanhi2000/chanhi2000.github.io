@@ -6,3 +6,23 @@ h1 {
     color: red;
     margin-left: 20px;
 }
+
+div {
+    display: inline;
+    float: left;
+}
+
+iframe {
+    seamless frameborder: "0";
+    scrolling: "no";
+}
+
+iframe.sparam {
+    width: "800";
+    height: "400";
+}
+
+iframe.sother {
+    width: "500";
+    height: "400";
+}
