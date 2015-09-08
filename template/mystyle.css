@@ -2,9 +2,9 @@ body {
     background-color: lightblue;
 }
 
-h1 {
-    color: red;
-    margin-left: 20px;
+h1, h2 {
+    font-family: verdana;
+    font-style: normal;
 }
 
 div {
@@ -12,17 +12,36 @@ div {
     float: left;
 }
 
-iframe {
-    seamless frameborder: "0";
-    scrolling: "no";
+table, th, td {
+    border: 1px solid black;
+    table-layout: fixed;
+    font-family: verdana;
+    font-style: normal;
+}
+thead {
+    background-color: white;
+    font-size: 20px;
+    font-style: bold;
 }
 
-iframe.sparam {
-    width: "800";
-    height: "400";
+td.paramtable {
+    background-color: green;
+    color: white;
+    table-layout: fixed;
 }
 
-iframe.sother {
-    width: "500";
-    height: "400";
+.row-met {
+    width: 20%;
+}
+
+.row-sparam {
+    width: 50%;
+}
+
+.row-s11s13 {
+
+}
+
+.row-s12s14 {
+
 }
