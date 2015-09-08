@@ -28,6 +28,7 @@ td.paramtable {
     background-color: green;
     color: white;
     table-layout: fixed;
+    white-space: nowrap;
 }
 
 .row-met {
