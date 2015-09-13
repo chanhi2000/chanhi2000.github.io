@@ -1,22 +1,27 @@
 body {
-    background-color: lightblue;
-}
-
-h1, h2 {
+    background-color: #444444;
+    color: #FFFFFF;
     font-family: verdana;
     font-style: normal;
 }
 
+label {
+    font-family: ;
+}
+
+.thin-black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+}
 div {
-    display: inline;
-    float: left;
+    margin: 0px 10px 10px 0px ;
 }
 
 table, th, td {
     border: 1px solid black;
     table-layout: fixed;
     white-space:nowrap;
-    font-family: verdana;
     font-style: normal;
 }
 thead {
@@ -26,7 +31,7 @@ thead {
 }
 
 td.paramtable {
-    background-color: green;
+    ㅃbackground-color: green;
     color: white;
     table-layout: fixed;
     white-space: nowrap;
