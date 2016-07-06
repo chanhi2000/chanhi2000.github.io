@@ -1,0 +1,194 @@
+@import "lesshat";
+
+html, body
+{
+	background: #F9F7F6;
+	font-family: 'Open Sans';
+	font-size: 12px;
+	line-height: 1.25;
+}
+
+header
+{
+	text-align: center;
+	padding: 2em;
+	color: #404D5B;
+
+	h1
+	{
+		font-size: 4em;
+		line-height: .2;
+	}
+
+	h2
+	{
+		font-size: 1.5em;
+		font-weight: normal;
+		.opacity(.5);
+	}
+}
+
+nav
+{
+	text-align: center;
+	ul
+	{
+		list-style: none;
+		padding: 2em;
+
+		li
+		{
+			display: inline-block;
+			a
+			{
+				text-decoration: none;
+				padding: 5px;
+				font-size: 1.3em;
+				border: 3px solid #F9F7F6;
+				.transition(.3s);
+				text-transform: uppercase;
+				color: #404D5B;
+
+				&.active {
+					border: 3px solid #404D5B;
+				}
+				&:hover {
+					background: #404D5B;
+					color: #F9F7F6;
+				}
+			}
+		}
+	}
+}
+
+.content
+{
+	width: 100%;
+	height: 370px;
+	position: relative;
+	margin: 20px auto;
+	overflow: hidden;
+
+	.tab {
+		overflow: hidden;
+		padding: 1em 4em;
+		height: 370px;
+
+		font-size: 2em;
+		line-height: 1.4;
+	}
+
+	.tab1 {
+		background: #34495E;
+		color: #B4B4B4;
+	} .tab2 {
+		background: #E74C3C;
+		color: #fff;
+	} .tab3 {
+		background: #bbc3c3;
+		color: #404D5B;
+	} .tab4 {
+		background: #F9F7F6;
+	}
+}
+
+.slide-left.ng-enter, .slide-left.ng-leave,
+.slide-right.ng-enter,.slide-right.ng-leave,
+.slide-top.ng-enter,.slide-top.ng-leave,
+.slide-bottom.ng-enter,.slide-bottom.ng-leave,
+{
+	position: absolute;
+	top: 0; 
+	right: 0; 
+	bottom: 0; 
+	left: 0;
+
+	.transition(.3s ease-in-out);
+}
+
+// 
+//  SLIDE LEFT
+// 
+
+.slide-left
+{
+	&.ng-enter.ng-enter-active 
+	{
+		.transform(translateX(0));
+	} 
+	&.ng-leave 
+	{
+		z-index: 100;
+		.transform(translateX(0));
+	} 
+	&.ng-leave-active 
+	{
+		.transform(translateX(-100%));
+	}
+}
+
+
+// 
+//  SLIDE RIGHT
+// 
+
+.slide-right
+{
+	&.ng-enter 
+	{
+		.transform(translateX(-100%));
+	}
+	&.ng-enter-active, 
+	{
+		position: absolute;
+		.transform(translateX(0));
+	}
+	&.ng-leave-active 
+	{
+		.transform(translateX(100%));
+	}
+}
+
+
+// 
+//  SLIDE TOP
+// 
+
+.slide-top
+{
+	&.ng-enter 
+	{
+		.transform(translateY(-100%));
+	}
+	&.ng-enter-active, 
+	{
+		position: absolute;
+		.transform(translateY(0));
+	}
+	&.ng-leave-active 
+	{
+		.transform(translateY(100%));
+	}
+}
+
+
+// 
+//  SLIDE BOTTOM
+// 
+
+.slide-bottom
+{
+	&.ng-enter-active 
+	{
+		.transform(translateY(0));
+	}
+	&.ng-leave 
+	{
+		z-index: 100;
+		.transform(translateY(0));
+	}
+	&.ng-leave-active
+	{
+		.transform(translateY(-100%));
+	}
+}
