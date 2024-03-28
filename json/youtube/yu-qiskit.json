@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "qiskit",
+    "name": "Qiskit",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MbxyM1WRigfFosBJ8hj1bX1Fn1Hmc4bmA0LRn47nlKby7am1HHq6JT4--xECIzfRnZVkqh-WraY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZzRdjoH0xp0", "title": "Quantum Job Hunting: More Things You NEED to Know" },
+    { "id": "THmVL5oge7k", "title": "Near-Term Quantum Algorithms for Optimization with Ashley Montanaro" },
+    { "id": "BEFK1XTiiPc", "title": "Efficient Long-Range Entanglement using Dynamic Circuits with Elisa Bäumer" },
+    { "id": "QjcZaJVpfKU", "title": "On quantum backpropagation and information reuse | Qiskit Quantum Seminar with Amira Abbas" },
+    { "id": "Nrdc1-Xtt84", "title": "Quantum Crosstalk | Episode 01: What's Coming to Quantum in 2024 with Katie Pizzolato" },
+    { "id": "BEFK1XTiiPc", "title": "Efficient Long-Range Entanglement using Dynamic Circuits with Elisa Bäumer" },
+    { "id": "ZQ7BtX6u5gI", "title": "How can I simulate depolarizing errors in Qiskit?" },
+    { "id": "xqoHU286kjQ", "title": "Magic Meets Entanglement: Pseudomagic and Computational Separations | Qiskit Quantum Seminar" },
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
+    { "id": "455pmYaZXKw", "title": "Phase Kickback with Qiskit" },
+    { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
+    { "id": "jcC1Ck45Ykw", "title": "Back to the Future on a Quantum Computer: Demystifying Time Loops | Paradoxes Ep. 09" },
+    { "id": "AXXgE5zzIVQ", "title": "Quantum Simulation with Ultracold Atoms in Optical Lattices | Qiskit Quantum Seminar IMMANUEL BLOCH" },
+    { "id": "9MOIBcYf9wk", "title": "How to sample a Bell State using Qiskit" },
+    { "id": "M4EkW4VwhcI", "title": "How to Install Qiskit — Programming on Quantum Computers Season 1 Ep 2" }, 
+    { "id": "a1NZC5rqQD8", "title": "Quantum Pong — Programming on Quantum Computers Season 1 Ep 1" }
+  ]
+}

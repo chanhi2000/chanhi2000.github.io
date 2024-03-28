@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "chehumpan",
+    "name": "체험판",
+    "profile": "https://yt3.googleusercontent.com/ivIiLuJfNbCoxzJpP4jLNQWgZarSl3v40xksrKhISLbvaM-De74KM2_yamqe2iRQq94T_tuAxIM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yFIbT65m6nTqXXUBgpA_YLwDom-xzcekgWpqUen83ehAVBhE2XBkGc0q2aADs13WuHf4NTjm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6NSSS-4B57w", "title": "썬더볼트 따라올 포트가 있다고? [기가바이트 B650E AORUS ELITE AX X ICE] -협찬제품" },
+    { "id": "aUqhwjwu8Ag", "title": "냉각장인 이름 값 하는 360쿨러를 찾았다 [쿨러마스터 마스터리퀴드 360 ATMOS] (대양케이스 협찬)" },
+    { "id": "g2MJVtanI-0", "title": "드라이버란 무엇일까? 컴퓨터 사면 꼭 해야 하는 이유" },
+    { "id": "McsC828LA3E", "title": "좋은 메인보드 쉽게 고르는 방법" },
+    { "id": "thzhLxV1TW4", "title": "외장 NVMe SSD + 도킹 스테이션 [장우컴퍼니 협찬 JW-I7 Dock]" },
+    { "id": "F_8nkHshy_E", "title": "마우스 추천? 이거 미만 잡ㅇㅇ" },
+    { "id": "I1kfSEZKgHA", "title": "하드디스크가 비싸지면 뭐가 달라지나?" },
+    { "id": "toAIzq-1-rw", "title": "컴퓨터 최적화 프로그램? 필요 없습니다" },
+    { "id": "A9-wKxEzaek", "title": "기가바이트 Z790 AORUS MASTER X [피씨디렉트 협찬]" },
+    { "id": "tuYPE0XoQec", "title": "3/3 컴퓨터 견적, 원격지원(팀뷰어), 문제해결 필요하신분" },
+    { "id": "RZkL7Apnoqc", "title": "[체험판]DeskTop Case_ Cox Waltz 리뷰" }
+  ]
+}

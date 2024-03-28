@@ -1,0 +1,63 @@
+[
+  {
+    "repo": "MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure", 
+    "officialSite": "https://docs.microsoft.com/azure",
+    "topics": []    
+  }, {
+    "repo": "Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates", 
+    "officialSite": "https://aka.ms/azqst" ,
+    "topics": []    
+  }, {
+    "repo": "H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "officialSite": "" ,
+    "topics": []    
+  }, {
+    "repo": "DarkCoderSc/PowerRemoteDesktop",
+    "desc": "Remote Desktop entirely coded in PowerShell.",
+    "officialSite": "" ,
+    "topics": []    
+  }, {
+    "repo": "ChrisTitusTech/winutil",
+    "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates", 
+    "officialSite": "" ,
+    "topics": []    
+  }, {
+    "repo": "microsoftgraph/microsoft-graph-docs",
+    "desc": "Documentation for the Microsoft Graph REST API",
+    "officialSite": "os",
+    "topics": ["microsoft-graph-documentation", "devxdocs"]  
+  }, {
+    "repo": "fleschutz/PowerShell",
+    "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
+    "officialSite": "",
+    "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"]  
+  }, {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "desc": "game of active directory",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dotnet/core",
+    "desc": ".NET news, announcements, release notes, and more!",
+    "officialSite": "https://dot.net",
+    "topics": ["dotnet", "dotnet-core"]
+  }, {
+    "repo": "cloudevents/sdk-powershell",
+    "desc": "PowerShell 7.0 SDK for CloudEvents",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "microsoft/sudo",
+    "desc": "It's sudo, for Windows",
+    "officialSite": "",
+    "topics": ["sudo", "windows", "windows-11"]
+  }, {
+    "repo": "ScoopInstaller/Main",
+    "desc": "📦 The default bucket for Scoop.",
+    "officialSite": "https://scoop.sh",
+    "topics": ["scoop", "scoop-apps", "scoop-bucket"]
+  }
+]

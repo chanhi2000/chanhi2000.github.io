@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "CharfaouiYounes",
+    "name": "Charfaoui Younes",
+    "profile": "https://yt3.googleusercontent.com/HsdNJnZaYVvEZCsPe1OT1-vk1_O8gJ9Gico6GVtChghcqqZJxJNlPwKlVR381c7zhagKW5jF=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xEwWuAkQYnOdcy3AMd6Ohv6rRFUtUPzyVwnke27uHab0c6BqUn24HXAY_XsjdEJ6A774F-BcZu0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "du3B__vGOiw", "title": "How to Test Networking Layer in Android!" },
+    { "id": "UHsWR1syMBI", "title": "Dagger Hilt - Assisted Inject Hilt in Android!" },
+    { "id": "IfHGfo1KinU", "title": "Kickstart New Android Project with This Template (its FREE)!" },
+    { "id": "HUdmjJQg9UI", "title": "The Effective Pull Request Checklist (I Use it to Review +1000 PRs)" },
+    { "id": "14kx0qRUiOY", "title": "The easy way to migrate to Gradle Version Catalog!" },
+    { "id": "8ek39o0aLBk", "title": "99% of Developers Don't Know this Compose Performance Trick!" },
+    { "id": "NAKOhe4bpT0", "title": "Get Started with Canvas API in Jetpack Compose" },
+    { "id": "yE2IUeQkOtc", "title": "5 Android App Ideas You Need to Develop!" },
+    { "id": "c9leA895cNc", "title": "Test your APIs in Android using MockWebServer!" },
+    { "id": "D0OYk2xtOl8", "title": "Interview Question Tip 🤯 #short #interview" },
+    { "id": "EjD5TQxHM5A", "title": "Custom Savers" },
+    { "id": "RJ6tmTFxBqc", "title": "Kotlin Flow Operators: Merge, Zip, Combine + Course Launch 📢" }, 
+    { "id": "xeyCDYtvtgs", "title": "How to use MockK to Test Lambdas in Kotlin!" },
+    { "id": "2CtXeCxGOAQ", "title": "Beginner Guide to Mutation Testing in Kotlin!" },
+    { "id": "a7bHKh60bNY", "title": "Room Database - Using Foreign Keys!" },
+    { "id": "vdSZNb1lcQ0", "title": "Kotlin Value Classes For Begineners!" },
+    { "id": "JBrEaOYU1t4", "title": "Combining Kotlin Flows 💧" },
+    { "id": "N4OUFr2S_OA", "title": "7 Plugins to Boost Android Development Productivity: RoboPojo Generator" },
+    { "id": "35c1SBWLSfw", "title": "EVERYTHING You need to Know about Parameterized Tests!" },
+    { "id": "FD4Tup-uAfU", "title": "Implementing a Toy Example in Compose Desktop!" },
+    { "id": "y8uhCQjHkWk", "title": "Step-by-Step Guide to Screenshot Testing in Android!" },
+    { "id": "2tHhfmga6ZA", "title": "CameraX in Jetpack Compose!" },
+    { "id": "wWz4NXqwLYw", "title": "Boost your Testing Skills with Test Builder Pattern!" },
+    { "id": "I1SOlHZ9RVg", "title": "The Weirdest Thing I've Ever Seen about Java  😵" }
+  ]
+}

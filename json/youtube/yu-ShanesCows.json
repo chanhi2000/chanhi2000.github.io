@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "ShanesCows",
+    "name": "Shane Young",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo2TSYIGTjLT-dWOIHbabi4BoU3lwT39V0hCQa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-IIo0fQaudHhJhJxlRbO0R8WM62cGhN7kxJPeqjttKADE7-Kp5v5RZIDCB16nA6CK3grwcXeMbI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6j7jxKsLqdA", "title": "Customize SharePoint list forms with Power Apps" },
+    { "id": "KROOEdZXvoY", "title": "Buy and Enable Copilot for Microsoft 365" },
+    { "id": "GNu1gKGG1GU", "title": "Power Apps Upcoming Features and other Settings" },
+    { "id": "D3D2LOBbF_o", "title": "Using ForAll with As in Power Apps  #powerapps #canvasapps #powerplatform" },
+    { "id": "tRIVjDASxMY", "title": "5 Fancy Functions in Power Apps" },
+    { "id": "DOLUOZWID70", "title": "Copilot for Excel with ChatGPT Data #copilot #chatgpt #excel #microsoftcopilot" },
+    { "id": "oQqWxRulCPM", "title": "Learn Power Apps - Build and Configure your first Power App with SharePoint" },
+    { "id": "wpZbYPvPO68", "title": "Power Apps Select Multiple Items in A Gallery" },
+    { "id": "cjcDH7_v6cE", "title": "Power Apps Upload File v2 to SharePoint Document Library" },
+    { "id": "jc2DquMS7qM", "title": "Better Performance with Less Effort! Use Power Apps Named Formulas" },
+    { "id": "0SZuRKPjOks", "title": "Stop just building Canvas Apps! The Power Platform has so many tools you can use" },
+    { "id": "T6Kl8MGCL5E", "title": "5 Power Apps Performance Tips" },
+    { "id": "p1tXRy_hyrQ", "title": "Power Apps Advanced Forms" }, 
+    { "id": "vpjf5mD-COs", "title": "Use the Power Automate v2 Trigger for Power Apps" },
+    { "id": "d8hT604YD3Q", "title": "Power Automate Copilot deep dive and the new UI" },
+    { "id": "KD_FnyqH3Lo", "title": "Turn Excel into an App with Copilot Magic" }, 
+    { "id": "W8JjF2k0IQA", "title": "Saving Power Apps Data with the Patch Function" }, 
+    { "id": "WlWT0lWTGU8", "title": "Validate Inputs, Warn Users, and Disable Buttons in Power Apps" }, 
+    { "id": "KD_FnyqH3Lo", "title": "Turn Excel into an App with Copilot Magic" }, 
+    { "id": "8Sdx7baJEuU", "title": "PowerApps Component Libraries - Share and reuse across the org" }, 
+    { "id": "BPmCW1uXh38", "title": "PowerShell for PowerApps and Flow" }, 
+    { "id": "YgWT9mJKEzk", "title": "Introduction to Microsoft Forms - No more Survey Monkey" }
+  ]
+}

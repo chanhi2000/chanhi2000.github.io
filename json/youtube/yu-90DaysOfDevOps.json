@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "90DaysOfDevOps",
+    "name": "90DaysOfDevOps",
+    "profile": "https://yt3.googleusercontent.com/zZE1UYrgqUXXy6bpuPCmwHTWf3MuLUHzeRYhF-dkr4fpYboS7Ed4QvIbwu-4YzvM5cOa_HZ_fO8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vE2-ZWkNaJ3SzqOlipHxtvellsiElmlb3pFKqjUqhKDwPKx30T66XvHV_l_jnXzMEi-3qN2P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wKC1hTE9G90", "title": "Day 30 - How GitHub delivers GitHub using GitHub" },
+    { "id": "YnMEcjTlj3E", "title": "Day 32 - Cracking Cholera’s Code: Victorian Insights for Today’s Technologist" },
+    { "id": "d-2DKoIp4RI", "title": "Day 36 - Policy-as-Code Super-Powers! Rethinking Modern IaC With Service Mesh And CNI" },
+    { "id": "5s1w09vGjyY", "title": "Day 35 - Azure for DevSecOps Operators" },
+    { "id": "vI9iz_CImCs", "title": "Day 37 - The Lean DevOps Playbook: Make it a success from Day one" },
+    { "id": "xlqnmUOeREY", "title": "Day 38 - Open Standards: Empowering Cloud-Native Innovation" },
+    { "id": "aJfcP5fambs", "title": "Day 39 - Is TLS in Kubernetes really that hard to understand?" },
+    { "id": "NqGUVOSRe6g", "title": "Day 45 - Microsoft DevOps Solutions or how to integrate the best of Azure DevOps and GitHub" },
+    { "id": "d1ZnS8L85sw", "title": "Day 46 - Mastering AWS Systems Manager: Simplifying Infrastructure Management" },
+    { "id": "pEB4Kp6JHfI", "title": "Day 47 - Azure logic app, low / no code" },
+    { "id": "RQT9c_Cl_-4", "title": "Day 48 - From Puddings to Platforms: Bringing Ideas to life with ChatGPT" },
+    { "id": "63qRo4GzJwE", "title": "Day 50 - State of Cloud Native 2024" },
+    { "id": "_mKToogk3lo", "title": "Day 51 - DevOps on Windows" },
+    { "id": "fTsaj7kqOvs", "title": "Day 52 - Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure" },
+    { "id": "LOEaKrcZH_8", "title": "Day 56 - Automated database deployment within the DevOps process" },
+    { "id": "VoeQWkboSUQ", "title": "Day 57 - A practical guide to Test-Driven Development of infrastructure code" },
+    { "id": "dKrYUikDgzU", "title": "Day 55 - Bringing Together IaC and CM with Terraform Provider for Ansible" },
+    { "id": "cWUUJYKvbAk", "title": "Day 11 - Crafting & Validating Our Disaster Recovery Plan" },
+    { "id": "y9rOAzuV-F8", "title": "Day 12 - Know your data: The Stats behind the Alerts" },
+    { "id": "MpGKEBmWZFQ", "title": "Day 13 - Architecting for Versatility" },
+    { "id": "QMF973vpxyg", "title": "Day 21 - Azure ARM now got Bicep" },
+    { "id": "3YhLr5sxxcU", "title": "Day 16 - Smarter, Better, Faster, Stronger - Testing at Scale" },
+    { "id": "1wKi6FH8eg0", "title": "Day 18 - Platform Engineering Is Not About Tech" },
+    { "id": "fjWh3BH4LbU", "title": "Day 19 - Building Efficient and Secure Docker Images with Multi-Stage Builds" },
+    { "id": "-et6kHmK5MQ", "title": "Day 22 - Test in Production with Kubernetes and Telepresence" },
+    { "id": "j3_917pmK_c", "title": "Day 25  - Kube-Nation: Exploring the Land of Kubernetes" },
+    { "id": "ZBaQ71CI_lI", "title": "Day 26 - Advanced Code Coverage with Jenkins and API Mocking" },
+    { "id": "MqsIpGEbt4w", "title": "Day 29 - A Practical introduction to OpenTelemetry tracing" },
+    { "id": "MhqXN269S04", "title": "Day 3 - High-performing engineering teams and the Holy Grail" },
+    { "id": "00znexeYqtI", "title": "Day 10 - Is Kubernetes Too Complicated?" },
+    { "id": "qOsXEZzqNP8", "title": "DevOps - The real stories - Day6" }
+  ]
+}

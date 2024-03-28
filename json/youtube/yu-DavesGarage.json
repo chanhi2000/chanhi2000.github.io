@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "DavesGarage",
+    "name": "Dave's Garage",
+    "profile": "https://yt3.googleusercontent.com/5L93CQxZo-_EhDIqIG6KdRMkJ2YBYpusQ8gL3awif3JmRLEJJYPM2bP7M-8TGcfnN2GyVlOWC2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KsBgdgUo4NHiy-Bu0S8jB8l8yhOLgutuWberlDXRuDHLzl25MQrdUhBfL0R16vaR99oCBlqmOg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Djeir8s-YMc", "title": "How VFDs Work and How to Add a VFD Monitor to your PC" },
+    { "id": "8-VZoXn8f9U", "title": "C++ Super Optimization: 1000X Faster" },
+    { "id": "H5hsMh99dAc", "title": "Save Money by Buying a Mac Pro!" },
+    { "id": "9fLwFKGvmAY", "title": "VLANs: How to Protect Your Wifi and LAN" },
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager (E01)" },
+    { "id": "-vJQv4rgHYE", "title": "The Minds Behind Windows: Raymond Chen" },
+    { "id": "Fn96IM9mydI", "title": "Ultimate Guide to Virtualization: Run MacOS, Linux, and Windows all at once on the same machine!" }, 
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager (E01)" },
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager" },
+    { "id": "IrGjyfBC-u0", "title": "Master Pointers in C:  10X Your C Coding!" }, 
+    { "id": "Ve95Nh690l0", "title": "Inside Task Manager with the Original Author" }, 
+    { "id": "CR7i1UfBtQM", "title": "Does Windows have Back Doors?" }, 
+    { "id": "HrDovsqJT3U", "title": "Behind the Windows Start Menu - Insider Secrets" },
+    { "id": "xi1Lq79mLeE", "title": "The Mind Behind Windows: Dave Cutler" },
+    { "id": "2bVhyB7Av8s", "title": "Coding Graphics in C: SetPixel, LineDraw, Moire and More!" }
+  ]
+}

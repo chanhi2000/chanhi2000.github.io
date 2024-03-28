@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "officialSite": "https://ziglang.org",
+    "topics": ["compiler", "language", "zig"]
+  }, {
+    "repo": "andrewrk/poop",
+    "desc": "Performance Optimizer Observation Platform",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "officialSite": "https://bun.sh",
+    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"]
+  }, {
+    "repo": "zigcc/zig-cookbook",
+    "desc": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
+    "officialSite": "https://zigcc.github.io/zig-cookbook/",
+    "topics": ["zig", "ziglang"]
+  }, {
+    "repo": "tigerbeetle/tigerbeetle",
+    "desc": "The distributed financial transactions database designed for mission critical safety and performance.",
+    "officialSite": "https://tigerbeetle.com",
+    "topics": []
+  }, {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "desc": "Unified abstraction layer and HAL for several microcontrollers",
+    "officialSite": "",
+    "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"]
+  }, {
+    "repo": "NilsIrl/dockerc",
+    "desc": "container image to single executable compiler",
+    "officialSite": "",
+    "topics": ["containers", "docker", "oci", "oci-image"]
+  }
+]

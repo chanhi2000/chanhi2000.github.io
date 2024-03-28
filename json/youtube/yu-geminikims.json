@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "geminikims",
+    "name": "제미니의 개발실무",
+    "profile": "https://yt3.googleusercontent.com/n0zZcCqWxbak2jIlc_BynDzm3m71-_VuMmByRX6QCW3mf0OKKTAsU6MNvwswgcw8zjm47hNS2xc=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XTOcuqXgXGWFG9ukRxdPkFRK0-QcYaPQ1XnKe7nKdkO6y_9OKdpo0_-XxyGRk1fzUqrJfsnY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w83Pa-xfOCM", "title": "캐시는 언제 도입 해야할까? (feat.복합 질문)" },
+    { "id": "GkwHwS6L-8E", "title": "커뮤니케이션이 힘들때 어떻게 해야할까?" },
+    { "id": "yDOT2-6KPZc", "title": "오버엔지니어링 판단 기준" },
+    { "id": "Ln0pFGcQQW4", "title": "테스트를 위해 운영 코드를 수정해도 되나요?" },
+    { "id": "SGVegQ4QXSY", "title": "웹&앱 서비스 시 백엔드 처리 전략 + 예외 메세지 처리 + 도메인 리펙토링 기준" },
+    { "id": "Q_JM3t9KPpk", "title": "프레젠테이션 레이어 의도적 개념 분리" },
+    { "id": "b5xWS8MYl0Q", "title": "좋아요 기능설계 해보기+ 개발 요구사항의 이해" },
+    { "id": "_lsNuSKOhLE", "title": "도메인 모듈 분리 시 Enum은 어디에?" },
+    { "id": "VQl0AURg_Gc", "title": "의존성 최신화 전략!" },
+    { "id": "txYAmWRnbBg", "title": "테스트 코드는 어떻게 시작 해야하나요?" },
+    { "id": "6JKMwwXI2G4", "title": "성능 테스트 최대 부하 얼마나?" },
+    { "id": "20dhBGPQ6aA", "title": "올바른 성능 테스트란 무엇일까요?" },
+    { "id": "_4zhXPQRv6Y", "title": "도메인 성숙도?" },
+    { "id": "Xg82L2FZuHg", "title": "레이어별 검증 전략" },
+    { "id": "nVGV8ag8v7g", "title": "모듈 분리 시 의존 관계 설정" },
+    { "id": "sKTyrpRtLRA", "title": "주절주절 SI 탈출기?" },
+    { "id": "6q0-IT5J0nI", "title": "DB 외래키에 대해 / JPA 인덱스 명시 + 양방향 연관관계" },
+    { "id": "WTIk8aDz8WI", "title": "RESTful API 해야할까?" },
+    { "id": "zJ3-9QMQCUU", "title": "도메인 간 기능 제공 전략" },
+    { "id": "Zs4VYXudYIQ", "title": "레이어간 객체 변환 + 중요한 객체를 더 고민하자" },
+    { "id": "vgNHW_nb2mg", "title": "JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD" },
+    { "id": "4VWtTFUvS-o", "title": "JPA 연관 관계 전략!" },
+    { "id": "DcVsriwkqZM", "title": "백엔드 서버 로그 분산 추적!" },
+    { "id": "7oW3fnsMHPs", "title": "여러 도메인의 패키지 위치 + Package 와 Import 응집 느껴보기" },
+    { "id": "7oW3fnsMHPs", "title": "여러 도메인의 패키지 위치 + Package 와 Import 응집 느껴보기" },
+    { "id": "vgNHW_nb2mg", "title": "JPA Entity 연관관계 어떻게 걸까요? + 엔티티 연관관계 PTSD" },
+    { "id": "YyWL4C2ogkE", "title": "패키지 이동으로 코드 느끼기!" },
+    { "id": "x1dTl0mrIgk", "title": "동료를 위한 PR & 커밋" },
+    { "id": "YdFYskYoQ-g", "title": "소프트웨어의 성장 과정" },
+    { "id": "Kx5vE4OVxSw", "title": "BoostAPI 의 Provider 알아보기 + 인증 분리/격리하기" }
+  ]
+}

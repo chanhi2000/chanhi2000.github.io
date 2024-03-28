@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "NareshIT",
+    "name": "Naresh i Technologies",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR-Ll6uGplRe51C3U1vBxhPQ1pzsoWTlrqdW4oS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mckDAqaGXh1nQIICPGODbFWM44y7IY9tGAT2LYbR_m2XNWCNNkHNdnD-AQDZrV7RFWEPWB73=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Xp1MnygECUs", "title": "Generative AI Workshop | Mr. Prakash Senapathi | Naresh IT" },
+    { "id": "WeqDLmcJrtM", "title": "Functional Programming and Functional Interface | Java 8 Features | by Mr.Hari Krishna" },
+    { "id": "EyTzagWexHo", "title": "JAR, Executable JAR and Project Development | By Mr. Hari Krishna" },
+    { "id": "ectJyPaiKIM", "title": "Workshop on Cloud Computing: Hands on Server Build @ 9:00 AM (IST) by Mr.Santosh on 11th February" },
+    { "id": "090CFNm4_EE", "title": "Mastering Java 8 Features : Understanding Functional Interfaces with Mr. Hari Krishna | NareshIT" },
+    { "id": "Skeuvyso84Q", "title": "Bootstrap Fundamentals: Session 2 Tutorial by Mr. Sudhakar Sharma | NareshIT" },
+    { "id": "s56GtxkJUWE", "title": "Bootstrap Unveiled: Session 5 Tutorial by Mr. Sudhakar Sharma | NareshIT" },
+    { "id": "HGhOmJn58Ug", "title": "Bootstrap Fundamentals: Session 6 Tutorial by Mr. Sudhakar Sharma | NareshIT" },
+    { "id": "rPagskkyanU", "title": "Tools Used in Java Real-Time Project | By Mr. Nataraj" },
+    { "id": "y48TwMSV4Cc", "title": "Java Multithreading Enhancement | by Mr. Hari Krishna" },
+    { "id": "69DNtl2Zw38", "title": "Tools Used in Java Real Time Project | by Mr. Nataraj" },
+    { "id": "UvbtiYvlfGM", "title": "Unlock Your JAVA Potential Dive into Full Stack Mastery with Mr. Hari Krishna | NareshIT" },
+    { "id": "sOkmpyZwd5I", "title": "Oracle Interview Question How to View Table Constraints | NareshIT" },
+    { "id": "MnyCz2LDhXA", "title": "Azure Data Engineer with Data Factory | Naresh IT" },
+    { "id": "aEpBcJivmlI", "title": "Difference Between Stack and Heap Memory in Java | Mr. Kishan | Naresh IT" },
+    { "id": "8JfPm6TrNrU", "title": "Value Equal to Index Value in Python | Pyhton Coding Challenges | NareshIT" },
+    { "id": "pIc67eMJJew", "title": "AWS Tutorial For Beginners |  AWS Cloud Sandbox | AWS Training | NareshIT" },
+    { "id": "PTe5oaW83K8", "title": "Workshop on Power BI @ 9:00 AM (IST) By Mr.Vijay Rama Raju on 10th December." },
+    { "id": "Y7PCTa0uZ9M", "title": "AWS Technical Essentials | Mr. Phani Krishna | Naresh IT" },
+    { "id": "5ZRJGmvRwpU", "title": "CI / CD Pipeline using Jenkins | by Mr.Rajinikanth" },
+    { "id": "f1YMvSSBqUY", "title": "Data Science End-to-End Project Discussion with Code | Health Care Domain | Naresh IT" },
+    { "id": "s2OfXgAks2s", "title": "Spring Boot & MicroServices By Mr.Nataraj | Session-1" },
+    { "id": "_R1vCa-t5p0", "title": "Understanding Service Models in Cloud Computing with AWS Services | AWS Training | Naresh IT" }, 
+    { "id": "tw0UCEePROY", "title": "Introduction to Full Stack Python Developer | by Mr. K V Rao | Naresh IT" },
+    { "id": "PTORISdPQ9Y", "title": "Workshop on Spring Boot Monitoring and Management @ 9:00 AM (IST) By Mr.Srinivas on 29th October." },
+    { "id": "VY3LWuDX2l0", "title": "Azure DevOps & Azure Services (App Services Deployment Through Different Ways)" },
+    { "id": "f1V9pBzE8oE", "title": "Full Stack Python Training" }, 
+    { "id": "_A7yBhW8Fx4", "title": "Logging in Spring Boot Applications | Mr. Nataraj | Naresh IT" },
+    { "id": "Nu465Oo-acc", "title": "Log4J / SLF4J Workshop Session-2 | by Mr. Nataraj | Naresh IT" }, 
+    { "id": "AI3b3FY2iD0", "title": "Junit5, HttpUnit & Mockito Workshop Session-2 | by Mr. Nataraj" }, 
+    { "id": "6VVplfYp40M", "title": "Junit5, HttpUnit & Mockito Workshop Session-1 | by Mr. Nataraj" }, 
+    { "id": "4hlnLkwgxig", "title": "Lombok API | Session-2 | by Mr. Nataraj" }, 
+    { "id": "1qCgn3SCzhw", "title": "Spring Boot & MicroServices Live Training- Session-3 | by Mr. Raghu" }, 
+    { "id": "e1_9uPJ31Lw", "title": "Lombok API | Session-1 | by Mr. Nataraj" }, 
+    { "id": "pQt5qIYLp1M", "title": "Project on Methods in Java By Hari Krishna || New batch from Aug 5th @4.00PM link in descry" }, 
+    { "id": "lLnazNth0s0", "title": "Microsoft AZURE Administrator (AZ-104) | Online Training | Session -1" }
+  ]
+}
+
+

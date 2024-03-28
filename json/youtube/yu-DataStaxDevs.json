@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "DataStaxDevs",
+    "name": "DataStax Developers",
+    "profile": "https://yt3.googleusercontent.com/RFguKDvROjyRQMZu0mFG4RuHS2qtF52CLBTjJVh_X_fk-mdILnNG0p0CTH06wQikjZWYplzh7A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LzVrUGfbic7LOYhPOY9tqkFfpkHLijJ3MRvex6mkR_YGy33PPyf9TOfsrLH7coK5aR0TUUhA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uNPB8jKcxuk", "title": "WikiChat: Build a real-time RAG app on Wikipedia with LangChain.js, Vercel, and Astra DB" },
+    { "id": "q2AxKzjM9vg", "title": "DataStax Astra DB Vector Experience" },
+    { "id": "_3g1_cOZPCc", "title": "Build Production Gen AI Chat with Vertex ai, LangChain and Astra DB Vector Search" },
+    { "id": "rtnzovShrJc", "title": "An Introduction to using LangChain with Astra DB" },
+    { "id": "nKFmU_c0aIA", "title": "Introducing the Astra Assistants API" },
+    { "id": "RN7T7eNXEwg", "title": "Realtime Java and AI #12" },
+    { "id": "_3e3Hk31h7k", "title": "How to Train Your LLM Dragon" },
+    { "id": "K8ykmHBxUZY", "title": "Cracking the Realtime AI Java code with Deepak Kumar of Doc-E" },
+    { "id": "x7Pj9BbdPQ4", "title": "Realtime Java and AI #7" },
+    { "id": "hx6r_BWmta0", "title": "Build an E-commerce Application with NoSQL & React" }, 
+    { "id": "bFEwttUD2aE", "title": "Build a Netflix Clone with React and NoSQL Database" }, 
+    { "id": "WkdfILAx-4c", "title": "Performance Tuning for Apache Pulsar Kubernetes Deployments" }, 
+    { "id": "_vP6LR_TdtM", "title": "Build the reference Spring Pet Clinic application with Apache Cassandra™" },
+    { "id": "GddqfK8JubA", "title": "Cloud-Native Workshop: Apache Cassandra™ meets Kubernetes" }, 
+    { "id": "bU5Br6UeTvw", "title": "Build Microservices Apache Cassandra™ with Spring Data" }, 
+    { "id": "_FlZXkMwDak", "title": "Building Reactive applications withSpring Framework [APAC]" }, 
+    { "id": "1aRbndIcXV4", "title": "Build a Reactive app in Apache Cassandra™ with Spring Framework" }, 
+    { "id": "kRYMwOl6Uo4", "title": "Build a REST API with Apache Cassandra™" }, 
+    { "id": "KAcZg6l9QTw", "title": "Build Microservices in Apache Cassandra™ , with Java" }, 
+    { "id": "VW8C3nU0EzQ", "title": "[Cassandra Workshop Series Week] - #1 Getting Started with Cassandra" }, 
+    { "id": "y4Gt_LQ8sdA", "title": "#1 An Introduction to Apache Cassandra™" }, 
+    { "id": "=gKkLvZI21K", "title": "LIVE CODING EXERCISE - Build a simple Java app w/ Astra DB" }, 
+    { "id": "DnzzapctOeQ", "title": "Build a Netflix Clone with GraphQL and React!" }
+  ]
+}

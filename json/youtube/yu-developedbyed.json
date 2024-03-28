@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "developedbyed",
+    "name": "developedbyed",
+    "profile": "https://yt3.googleusercontent.com/JfcqVinxsIc8dYsPIrp6IBDRMBb420BqVd2bzS9wqcMWBTzmnjUJ74Q0VByY1gUA8p-AYZQzxQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UKupfEuUc1M", "title": "Next.js 14 - Server Actions TUTORIAL | Type Safety, Error Handling, Pending States" },
+    { "id": "3ocq83df9m0", "title": "This Animation Tool Will Change Web Development" },
+    { "id": "9kjc6SWxBIA", "title": "Why I Still Use React Query with Next 14" },
+    { "id": "98v05b-u2OE", "title": "Why I Pick ShadCN and Tailwind for all my projects" },
+    { "id": "uvSMh0lQAQY", "title": "This Magnetic Nav Link Animation Is Sick!! | Nextjs 14, Framer Motion Tutorial" },
+    { "id": "S7Fxc2XVIFA", "title": "Nextjs 14 Rate Limiting Tutorial | Upstash Drizzle Server Actions" },
+    { "id": "3ocq83df9m0", "title": "This Animation Tool Will Change Web Development" },
+    { "id": "wQMB-_VbWu4", "title": "Build A 3D Interactive React Website in 15 Minutes" },
+    { "id": "i7lU6v_RejM", "title": "A Guide To ARIA and HTML" },
+    { "id": "Xc6G3oV24yE", "title": "Top 10 CSS One Liners That Will Blow Your Mind" },
+    { "id": "k-Pi5ZMxHWY", "title": "Build a React Portfolio Website With Tailwind Tutorial" },
+    { "id": "rpCQEQAlMIE", "title": "Vanilla CSS Scroll Animations Now Possible!" },
+    { "id": "b-HmvBJvu0U", "title": "Avoid These Typescript Mistakes" },
+    { "id": "rpCQEQAlMIE", "title": "Vanilla CSS Scroll Animations Now Possible!" },
+    { "id": "21ES7AnqkrA", "title": "Learn CSS Displays in 12 Minutes | Grid, Flexbox, Inline Block, Block" },
+    { "id": "pHXHBHdTzrM", "title": "You Can Create Beautiful Modern Emails With React!" }, 
+    { "id": "7MKEOfSP2s4", "title": "This React UI Library is GAME CHANGER!" }, 
+    { "id": "BGor77wguBI", "title": "Why is this making your website slow?" }, 
+    { "id": "_fNk--smLuY", "title": "This CSS Property will change the web" }, 
+    { "id": "pHXHBHdTzrM", "title": "You Can Create Beautiful Modern Emails With React!" }, 
+    { "id": "xB27AuRa5h4", "title": "Javascript Layout Animations REALLY SIMPLE TUTORIAL!" }, 
+    { "id": "xg1zO2hN2QM", "title": "Web Developer Reacts To Best Codepens!" }, 
+    { "id": "oPteQFUK42w", "title": "The Ultimate Guide To Forms In React Tutorial" }, 
+    { "id": "A2g4IwtAX_I", "title": "Top 10 VSCode Extensions YOU MUST TRY!" }, 
+    { "id": "Ttf3CEsEwMQ", "title": "Beginner Vanilla Javascript Project Tutorial" }, 
+    { "id": "z-xkbNLIB5w", "title": "Web Design Tutorial - 5 IMPORTANT Tips!" }, 
+    { "id": "tsMHONmUkvI", "title": "Create 3D Animation With Javascript Tutorial!" }, 
+    { "id": "jE-SpRI3K5g", "title": "Build A Python GUI App Tutorial" }, 
+    { "id": "2jqok-WgelI", "title": "Build A Node.js API Authentication With JWT Tutorial" }, 
+    { "id": "U9T6YkEDkMo", "title": "Build a Recipe App With React | React Tutorial For Beginners" }, 
+    { "id": "WZQc7RUAg18", "title": "ES6 Javascript Tutorial For Beginners | ES6 Crash Course" }, 
+    { "id": "gXkqy0b4M5g", "title": "Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT" }
+  ]
+}

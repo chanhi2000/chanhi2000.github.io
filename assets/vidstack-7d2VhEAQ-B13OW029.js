@@ -1,0 +1,1 @@
+import{an as i,ao as t}from"./vidstack-CVFRE1ST-D-51Zlyp.js";class n{constructor(s){this.Mh=s}Ia(){i(this.ud)&&this.Vh()}La(){t(this.ud)&&window.cancelAnimationFrame(this.ud),this.ud=void 0}Vh(){this.ud=window.requestAnimationFrame(()=>{i(this.ud)||(this.Mh(),this.Vh())})}}export{n as R};

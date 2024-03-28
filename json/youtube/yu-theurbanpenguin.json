@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "theurbanpenguin",
+    "name": "theurbanpenguin",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPuh-HaE0wBxLIqHYCujGE4q0hBjmacYjw0DuCiyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u-3amrvANSs", "title": "ChatGPT Demo: Exploring US States with Capital and Population Data" },
+    { "id": "lkeyWJiKv4A", "title": "Understanding Systemd Socket Units By Creating Your Own QOTD Service" },
+    { "id": "8s2P-FuZfLk", "title": "ChatGPT: A Practical Guide to Prompt Engineering Examples" },
+    { "id": "zRyL_iSKdl8", "title": "Coding with ChatGPT: Generating UK Lottery Numbers with Python" },
+    { "id": "DzBtIS-v6Ig", "title": "How To Make Your Own Linux Fortune Cookies" },
+    { "id": "sR4IpclSXlY", "title": "Master Webscraping with grep and sed" },
+    { "id": "zQIjLOfJSV4", "title": "Master Systemd Path Units in Rocky Linux" },
+    { "id": "A21igrrrdrE", "title": "Using Ansible to Implement Firewalld Firewalls in Ubuntu and Rocky Linux" },
+    { "id": "m_fIwnZcYUE", "title": "Scripting APT Updates using Bash Shell Scripts" },
+    { "id": "n0xkt0wFSFg", "title": "Learn French Conversation with ChatGPT" },
+    { "id": "AZOAlfF_yF0", "title": "Automount Filesystems in Linux with Systemd (Rocky Linux 9.3 Tutorial)" },
+    { "id": "VoUk0RfL8zQ", "title": "Using `vim` in Linux to Elevate with sudo" },
+    { "id": "Sn7l3oOvCWM", "title": "Creating Date-based Directories Using The Linux Date Command In Bash Scripting" },
+    { "id": "ddVb31yITsc", "title": "3 Time-saving Vim Tricks For Scripts In Linux" },
+    { "id": "oPjcYmUk7Lo", "title": "Rocky Linux Apparel" },
+    { "id": "XXDvEMRK54w", "title": "Simple Linux Tricks to format Terraform Output Using tr" },
+    { "id": "b_f0-8CqYKU", "title": "Adding An Ubuntu Machine To Join An Active Directory Domain" },
+    { "id": "0BrPccQRgUw", "title": "Optimizing Your BASH History File the .bash_history file" },
+    { "id": "GithEl15Wg4", "title": "How To Use Sed In Linux: A Practical Guide" },
+    { "id": "EK-A--VaTYo", "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!" }, 
+    { "id": "zyonwV5GWek", "title": "Creating Automatic Python Firewall Script in Ubuntu" }, 
+    { "id": "EK-A--VaTYo", "title": "Use Grep To Find Simple Patterns In Your Data Quickly And Easily!" }, 
+    { "id": "1S0-7m5kGhU", "title": "Using the Vagrant Ansible Local Provisioner" }, 
+    { "id": "1yF9x5BnWv0", "title": "Running an Ansible task with the condition that a service is running" }, 
+    { "id": "7-vKTMAPefI", "title": "Learning VIM - Day 4 of 7 - Search and replace text in the awesome vim editor" }, 
+    { "id": "eJrH59mxLmo", "title": "Ubuntu 18 04 : Active Directory Doman Controller" }, 
+    { "id": "Rzg1wFlJNU8", "title": "Searching for `rootkits` with rkhunter on CentOS 7" }
+  ]
+}
+
+

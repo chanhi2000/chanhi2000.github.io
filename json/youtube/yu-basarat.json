@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "basarat",
+    "name": "basarat",
+    "profile": "https://yt3.googleusercontent.com/j0VUiDS9sHvY1Btan-yWsVPxg5QweVlIm3z3AiBurwWJBtzttA1OCPzIq5ztGpirvDHyI5CS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1_M-btTiaVI", "title": "JavaScript bigint // The missing guide" },
+    { "id": "I5DLfGxcCPc", "title": "JavaScript WeakSet // Simplified MasterClass" },
+    { "id": "WQVBrBVG13w", "title": "RegExp - regex // JavaScript Regular Expressions Ultimate MasterClass" },
+    { "id": "sTDAMtVx7PQ", "title": "WeakRef - JavaScript Strong vs Weak references // Advanced JavaScript" },
+    { "id": "2hTPBiyuoMg", "title": "JavaScript Memory Leaks // The Biggest Sources and Fixes" },
+    { "id": "6TEuixdp6KE", "title": "Testing Multiple Browser Tabs using Cypress // Official Plugin" },
+    { "id": "Z-S9XfeEy8A", "title": "Sequencing async await tasks using JavaScript // Powerful Promise Utility Methods" },
+    { "id": "itERu0VEfng", "title": "JavaScript Garbage Collection // Simplifed and Demonstrated" },
+    { "id": "oMAS6wkyfro", "title": "JavaScript WeakMap  // Advanced JavaScript memory management" },
+    { "id": "xV_wjTRnWq4", "title": "Set MasterClass // Modern JavaScript Built-in Data Structures" },
+    { "id": "S0VEb42sD5U", "title": "JavaScript Map MasterClass // HashMap - Dictionary Data Structure" },
+    { "id": "vi0YKp5GE3U", "title": "generators, function*, yield, yield* // Professional Modern JavaScript" },
+    { "id": "1bep9hyMyvM", "title": "prototype and __proto__ // Professional JavaScript MasterClass" },
+    { "id": "KiObdY77oyQ", "title": "Iterator, Iterable and IterableIterator // Professional JavaScript MasterClass" },
+    { "id": "RL7kSOPkGXo", "title": "JavaScript Symbols MasterClass // The Missing Guide" },
+    { "id": "IB5TgH8ICNc", "title": "Async Await MasterClass // The JavaScript Promised Land" },
+    { "id": "Qoa05nsCy7I", "title": "JavaScript Promises Simplified // Get ready for async await" },
+    { "id": "bvjPsRHMuDs", "title": "Tagged Templates // Professional Modern JavaScript MasterClass" }, 
+    { "id": "yk4udO2qYBw", "title": "JavaScript Date and Time // MasterClass" },
+    { "id": "Cq_106T0URU", "title": "NextResponse does this better than the Web Standard" },
+    { "id": "i6CsAoSnalQ", "title": "JavaScript nullish operators - coalescing and optional chaining  \/\/ `??` `?.[]()`" },
+    { "id": "MRL2vX5iTWE", "title": "JavaScript Switch Statements // Masterclass patterns and practices" },
+    { "id": "Ny_L_fI30PQ", "title": "JavaScript Error Handling // Exception Mastery" },
+    { "id": "nFHgUqc1tAU", "title": "JavaScript Arrays // Complete MasterClass" },
+    { "id": "q0ZkTVj6gQM", "title": "Getting Setup for JavaScript Development" }, 
+    { "id": "ZdDTDTwrzHQ", "title": "Your env handling is wrong in TypeScript" }, 
+    { "id": "CqmmIZYKTqQ", "title": "React Native Image Component // Tips, Tricks and Gotchas" }, 
+    { "id": "EQsZX-V_q7g", "title": "`useEffect` // Simplifying the React Component Lifecycle" }
+  ]
+}

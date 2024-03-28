@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "engineerprompt",
+    "name": "Prompt Engineering",
+    "profile": "https://yt3.googleusercontent.com/qGZcIHs93S6ydl_7QpU1uHtO_i8nOKyPCk5j7_zEXTpQ5SyY45WsBNfJks0JwV03WsroHG0x=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "v_eykfyGfWE", "title": "First local LLM to Beat GPT-4 on Coding | Codellama-70B" },
+    { "id": "r2m9DbEmeqI", "title": "Better RAG: Hybrid Search in Chat with Documents | BM25 and Ensemble" },
+    { "id": "hOqQR7abKtE", "title": "OpenAI's SORA Text to Video Model is Absurd" },
+    { "id": "z9wDKwgQojM", "title": "LocalGPT API: Serve Multiple Users At the Same time" },
+    { "id": "zupmHMWuGCs", "title": "World's First Language Processing Unit 🚀 🚀 🚀" },
+    { "id": "J6gQW_oPi_U", "title": "The Mysterious New LLM from MISTRAL-AI" },
+    { "id": "MM30BOuAVaI", "title": "How to make LLMs Useless!" },
+    { "id": "S53BanCP14c", "title": "Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible" },
+    { "id": "_IcgfbXAAPM", "title": "Chat with Documents is Now Crazy Fast thanks to Groq API and Streamlit" },
+    { "id": "Weprd1wKoQ4", "title": "TinyLlama: The Era of Small Language Models is Here" },
+    { "id": "OVqe6GTrDFM", "title": "Fine-Tune Your Own TinyLlama on Custom Dataset" },
+    { "id": "Ey2Wt1heba4", "title": "OpenAI GPT Store is here 🔥🔥 But Vulnerable to Prompt Injection 💀💀" },
+    { "id": "B8s-FyN4UeE", "title": "CrewAI - Your Own Team of Autonomous Agents" },
+    { "id": "KIvl-VY8H0Y", "title": "AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents" },
+    { "id": "ob45YmYD2KI", "title": "AutoGen Studio with 100% Local LLMs (LM Studio)" },
+    { "id": "ut8qStGS7YM", "title": "7 Custom GPTs to Try for Productivity and Fun" },
+    { "id": "RzSDdosu_y8", "title": "Fine-tune Mixtral 8x7B (MoE) on Custom Data - Step by Step Guide" },
+    { "id": "wFMco_h_Sy0", "title": "Mixtral MoE on Apple Silicon is Here, thanks to MLX" },
+    { "id": "Zo3CTapKJ4I", "title": "Run Mixtral 8x7B MoE in Google Colab" },
+    { "id": "7h8ZHSkAkas", "title": "GEMINI Pro with LangChain | Chat, MultiModal and Chat with your Documents" },
+    { "id": "64Ldwi9YU4I", "title": "Getting Started with Gemini Pro API on Google AI Studio" },
+    { "id": "6_FKm9NWznY", "title": "Apple Join the AI Race with MLX" },
+    { "id": "ofJLbfyYOms", "title": "NEW \"Orca-2\" 🐳 Official Release - 13B Better than 70B Models" },
+    { "id": "J3Ko5DuqJoU", "title": "Build Customer-Facing AI ChatBots with this No Code Tool" },
+    { "id": "14VYWXEvcX8", "title": "LM Studio: The Easiest and Best Way to Run Local LLMs" },
+    { "id": "ASpageg8nPw", "title": "Mistral-7B with LocalGPT: Chat with YOUR Documents" },
+    { "id": "MGr1V4LyGFA", "title": "Ollama: The Easiest Way to RUN LLMs Locally" },
+    { "id": "Cu5KQz3c4Zk", "title": "RAG with Llama-Index: Vector Stores" },
+    { "id": "LBkb3NbpPI4", "title": "How to use Google PaLM API for Free" },
+    { "id": "WL7V9JUy2sE", "title": "Talk to Your Documents, Powered by Llama-Index" },
+    { "id": "G_prHSKX9d4", "title": "LocalGPT Updates - Tips & Tricks" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "realpython",
+    "name": "Real Python",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ5eUUQsrW2VwMxhVM8eJPEQpTJ02dzVVnakwlIlA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vGkunLdVDqk", "title": "Great Starting Points for Contributing to Open Source | Real Python Podcast #190" },
+    { "id": "l8BKMovPJQY", "title": "Python's enum - Start Building Enumerations" },
+    { "id": "EQNbSLHlEk4", "title": "Tuples and Lists Practice: Python Basics Exercises" },
+    { "id": "PrA2JoDvgGQ", "title": "Focusing on Data Science & Less on Engineering and Dependencies | Real Python Podcast #191" },
+    { "id": "PpywbmIcUhM", "title": "Starting With Conway's Game of Life in Python" },
+    { "id": "VCk-HQoPsMo", "title": "Practical Python Decorator Uses & Avoiding datetime Pitfalls | Real Python Podcast #192" },
+    { "id": "NIyljVEcJKw", "title": "Improving Python Console Output With Rich" },
+    { "id": "QTkwgsMFq9E", "title": "Wes McKinney on Improving the Data Stack & Composable Systems | Real Python Podcast #193" },
+    { "id": "f5PO8cXRQCg", "title": "Installing Packages With pip Practice: Python Basics Exercises" },
+    { "id": "kQvFMrSvG4c", "title": "Introduction to Celery and Creating Asynchronous Tasks for Django" },
+    { "id": "ZEWDGuKOkI8", "title": "Building a Healthy Developer Mindset While Learning Python | Real Python Podcast #195" },
+    { "id": "bTZqa7vWeeY", "title": "Functions and Loops Practice: Python Basics Exercises" },
+    { "id": "MhBlbx923vo", "title": "Serializing Data With Python & Underscore Naming Conventions | Real Python Podcast #187" },
+    { "id": "fTmL_XUrEw4", "title": "Starting With Python Tuples: Python Basics" },
+    { "id": "_9Ih1GnY0MU", "title": "Building a Python Debugger & Preparing for NumPy 2.0 | Real Python Podcast #189" },
+    { "id": "DwKUeba10u8", "title": "2023 Real Python Tutorial & Video Course Wrap-Up  | Real Python Podcast #185" },
+    { "id": "00fMyoSLKek", "title": "Using urllib to Make a HTTP Request With Python" },
+    { "id": "QNT8UCCiv7I", "title": "Exploring Python in Excel | Real Python Podcast #186" },
+    { "id": "8AThUuVJ-2Q", "title": "String Slicing and Concatenation Practice: Python Basics Exercises" },
+    { "id": "rwql5rWoFoI", "title": "PyCoder's Weekly 2023 Wrap Up | Real Python Podcast #184" },
+    { "id": "J6mVoLXXXs8", "title": "Files and Filenames Practice: Python Basics Exercises" },
+    { "id": "eBsqiMyTU7E", "title": "Finding the Current Time in Python" },
+    { "id": "lN8EKFMkDfI", "title": "Exploring Code Reviews in Python and Automating the Process | Real Python Podcast #183" },
+    { "id": "OraYXEr0Irg", "title": "Introduction to Jinja Templating" }
+  ]
+}

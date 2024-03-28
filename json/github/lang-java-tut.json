@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "macrozheng/springcloud-learning",
+    "desc": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。",
+    "officialSite": "https://www.macrozheng.com/cloud/cloud_catalog.html",
+    "topics": []
+  }, {
+    "repo": "akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "preslavmihaylov/booknotes",
+    "desc": "A collection of my book notes on various computer science books",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "PRNDcompany/android-style-guide",
+    "desc": "이 스타일 가이드는 PRND에서 개발되는 모든 안드로이드 프로젝트에 적용하기 위한 목적으로 작성되었습니다.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "codefarm0/Learning-Materials-By-Green-Learner",
+    "desc": "Topic wise details of all the courses published on youtube channel of Green Learner. Now it will be more easy to link the different videos of each course.",
+    "officialSite": "https://youtube.com/greenlearner",
+    "topics": []
+  }, {
+    "repo": "amigoscode/full-stack-professional",
+    "desc": "",
+    "officialSite": "https://amigoscode.com/courses/full-stack-professional",
+    "topics": []
+  }, {
+    "repo": "iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "officialSite": "https://java-design-patterns.com",
+    "topics": ["java", "snippets", "design-patterns", "principles", "awesome-list", "hacktoberfest", "snippets-library", "snippets-collection"]
+  }, {
+    "repo": "Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "officialSite": "https://javaguide.cn",
+    "topics": ["algorithms", "interview", "java", "jvm", "mysql", "redis", "spring", "system", "system-design", "zookeeper"]
+  }, {
+    "repo": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+    "officialSite": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+    "topics": ["algorithms", "competitive-programming", "data-structures", "faang-interview", "faang-preparation", "faang-questions", "google-interview", "interview-preparation", "java", "leetcode", "leetcode-java", "leetcode-solutions", "math"]
+  }, {
+    "repo": "TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "officialSite": "",
+    "topics": ["algorithm", "algorithm-challenges", "algorithms", "algorithms-datastructures", "data-structures", "hacktoberfest", "java", "search", "sort", "sorting-algorithms"]
+  }, {
+    "repo": "doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "officialSite": "https://doocs.github.io/advanced-java",
+    "topics": ["advanced-java", "distributed-search-engine", "distributed-systems", "doocs", "dubbo", "elasticsearch", "eureka", "feign", "high-availability", "high-concurrency", "hystrix", "java", "message-queue", "microservices-architecture", "redis", "ribbon", "rpc", "spring-cloud", "springcloud-config", "zookeeper"]
+  }, {
+    "repo": "xuchengsheng/spring-reading",
+    "desc": "涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。",
+    "officialSite": "https://blog.csdn.net/duzhuang2399",
+    "topics": ["annotations", "awareinterface", "backenddevelopment", "java", "javabackend", "mybatis", "mybatis-plus", "opensource", "servlet", "sourcecodeanalysis", "spring", "spring-aop", "spring-boot", "spring-cloud", "spring-data-jpa", "spring-security", "springboot2", "springframework", "springmvc", "web"]
+  }, {
+    "repo": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "spring-office-hours/resources-learning-spring",
+    "desc": "Resources for Learning Spring",
+    "officialSite": "",
+    "topics": []
+  }
+]
+

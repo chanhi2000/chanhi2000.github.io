@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "ajudmeister",
+    "name": "Andreas Jud",
+  "profile": "https://yt3.googleusercontent.com/q0eT3QR0Z8UrYtfrEt-XIaLPNVI_z1MoeJC45432or44hni0DNBLYUaKNP008bFFhJClBuRj7Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cY6tApsLZC8", "title": "SEO, Sitemaps, Open Graph and Google Analytics - Deployment with Django - Part 12" },
+    { "id": "AjKhxWgGpjY", "title": "Deploy Django app to Railway" },
+    { "id": "DANYPEz2iXg", "title": "Upgrade Django version - Deployment with Django - Part 13" },
+    { "id": "ENOZ4iA_d2w", "title": "AWS S3 bucket & files transfer - Deployment with Django - Part 14" },
+    { "id": "CziC1s5MULw", "title": "Maintenance Page with Django Middleware - Deployment with Django - Part 10" },
+    { "id": "MfMok3ZAWjU", "title": "Domains, Allowed Hosts and CSRF - Deployment with Django - Part 11" },
+    { "id": "6KNO-RBimNo", "title": "Nested Replies with Django and Htmx" },
+    { "id": "6ayk9SvHid4", "title": "Automatic Tests & Github Actions - Deployment with Django - Part 9" },
+    { "id": "vhGT9DKu5jk", "title": "Clone Repo & Merge Conflict - Deployment with Django - Part 8" },
+    { "id": "PWys7BPUWtE", "title": "Feature Toggle for CI/CD - Deployment with Django - Part 7" },
+    { "id": "s_M9DnqHOlE", "title": "CI/CD pipeline & Cron Job - Deployment with Django - Part 6" },
+    { "id": "H7WuQTtN6ac", "title": "Email Verifications & Notifications - Deployment with Django - Part 5" },
+    { "id": "CS5fm1nGpNA", "title": "Media Server - Cloudinary - Deployment with Django - Part 4" },
+    { "id": "8bHi_VTmGVs", "title": "Web Server - Render.com, PostgreSQL and Github - Deployment with Django - Part 3" }, 
+    { "id": "IMmbhnVixvo", "title": "Tailwind CLI and collectstatic - Deploying a Django app - Part 2" },
+    { "id": "YLj5wY7eeYY", "title": "Inbox Search and New Message - Building a web app with Django - Part 21" },
+    { "id": "rlddb7PLWms", "title": "Inbox Notifications - Building a web app with Django - Part 22" },
+    { "id": "rlddb7PLWms", "title": "Inbox Notifications - Building a web app with Django - Part 22" },
+    { "id": "K9FFFPEcZHk", "title": "Encryption - Building a web app with Django - Part 23" },
+    { "id": "8DDeZ6crmv0", "title": "Tabs with Htmx & Hyperscript - Building a web app with Django - Part 16" },
+    { "id": "LY8sf_-KdAI", "title": "Sidebar with Custom Template Tags - Building a web app with Django - Part 17" },
+    { "id": "lCzyohIFu6E", "title": "Profile Tabs with Htmx - Building a web app with Django - Part 18" }
+  ]
+}

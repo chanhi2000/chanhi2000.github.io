@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "ocaml-wasm/wasm_of_ocaml",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "austral/austral",
+    "desc": "Systems language with linear types and capability-based security.",
+    "officialSite": "https://austral-lang.org",
+    "topics": ["compiler", "capabilities", "linear-types"]
+  }, {
+    "repo": "CatalaLang/catala",
+    "desc": "Programming language for literate programming law specification",
+    "officialSite": "https://catala-lang.org",
+    "topics": ["programming-language", "legislative-texts"]
+  }
+]
