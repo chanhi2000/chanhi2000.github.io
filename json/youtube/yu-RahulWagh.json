@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "RahulWagh",
+    "name": "Rahul Wagh",
+    "profile": "https://yt3.googleusercontent.com/h2mg08zyrjpJVcdPbdh1IwkTHBFSguIkjIT3DSOrv50qyCQ2pq2UHf17-modwX52ViiNflqv2Kc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZYELmRnrkhB_iYRszPcYMUP4e1bg-maRev57mBREwHi7XnD3nl1pAdhat8mo5JXSfrxvU-xLeQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GROqwFFLl3s", "title": "Ansible Full Course | Zero to Hero" },
+    { "id": "x33w7dgJs88", "title": "AWS Solution Architect | IAM Policy | IAM User - Part 3" },
+    { "id": "SEulIt1C2E8", "title": "AWS Solution Architect | AWS SignUp | AWS_ACCESS_KEY_ID, AWS_ACCESS_KEY_ID | AWS CLI - Part-2" },
+    { "id": "A2rs1aR-Ryg", "title": "AWS Solution Architect Intro - Part-1" },
+    { "id": "2eu0YqbaOyo", "title": "AWS Solution Architect | Create Custom IAM Role and Policy - Part 4" },
+    { "id": "2eu0YqbaOyo", "title": "AWS Solution Architect | Create Custom IAM Role and Policy - Part 4" },
+    { "id": "6jVRG48G8N8", "title": "AWS Solution Architect | MFA(Multi Factor Authentication) setup - Part 6" },
+    { "id": "mgErddn7Wtw", "title": "AWS Solution Architect | IAM Group - Part 5" },
+    { "id": "sFoMyPOPrSM", "title": "AWS Solution Architect | IAM Assume Role - Part 7" },
+    { "id": "m2w-18Mx3dQ", "title": "AWS Solution Architect | IAM Access Analyzer - Part 8" },
+    { "id": "m2w-18Mx3dQ", "title": "AWS Solution Architect | IAM Access Analyzer - Part 8" },
+    { "id": "Ac4b3k_8lIY", "title": "AWS Solution Architect | AWS Organization & Organization Units(OUs) - Part 9" },
+    { "id": "MU7TBOdmMW0", "title": "AWS Solution Architect | AWS CLI (Command Line Interface) - Part 10" },
+    { "id": "XFGSuj83wdc", "title": "AWS Lambda | Function URL | Environment Vars | Lambda Layers - Step by Step Tutorial (Part -17)" },
+    { "id": "_d8xGNKAqeo", "title": "Mastering AWS Network Load Balancer | ALB vs NLB | Step by Step Tutorial - Part 18" },
+    { "id": "vzTKr035ORQ", "title": "Master AWS VPC Endpoint | Step by Step Tutorial | Part-19" },
+    { "id": "o0mzIlKHZdw", "title": "Mastering AWS Private Link(VPC Endpoint Service) | VPC Endpoints | Network LoadBalancer - Part 20" },
+    { "id": "7z9wN6QygfE", "title": "AWS Advanced Networking | Full Course | Part-1" },
+    { "id": "otQqd7GRVK0", "title": "Mastering DevOps: Deploying REST API on AWS with Terraform and Jenkins Magic" },
+    { "id": "DQk8HOVlumI", "title": "Complete Helm Chart Tutorial: From Beginner to Expert Guide" },
+    { "id": "peH95b16hNI", "title": "Getting started with Prometheus Grafana and Node exporter - Part 1" }
+  ]
+}
+

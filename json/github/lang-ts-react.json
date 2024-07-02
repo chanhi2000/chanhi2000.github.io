@@ -1,0 +1,133 @@
+[
+  {
+    "repo": "xyflow/xyflow",
+    "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+    "officialSite": "https://xyflow.com",
+    "topics": ["flowchart", "graph", "javascript", "node-based-ui", "react", "react-flow", "svelte", "svelte-flow", "typescript", "typescript-library", "workflow"]
+  }, {
+    "repo": "colinhacks/zod",
+    "desc": "TypeScript-first schema validation with static type inference",
+    "officialSite": "https://zod.dev",
+    "topics": ["runtime-validation", "schema-validation", "static-types", "type-inference", "typescript"]
+  }, {
+    "repo": "react-dnd/react-dnd",
+    "desc": "Drag and Drop for React",
+    "officialSite": "http://react-dnd.github.io/react-dnd",
+    "topics": ["drag-and-drop", "not-the-game", "react"]
+  }, {
+    "repo": "refinedev/refine",
+    "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+    "officialSite": "https://refine.dev",
+    "topics": ["admin", "admin-ui", "ant-design", "crud", "developer-tools", "frontend-framework", "good-first-issue", "graphql", "hacktoberfest", "headless", "internal-tools", "javascript", "low-code", "nestjs", "nextjs", "open-source-project", "react", "react-framework", "react-hooks", "typescript"]
+  }, {
+    "repo": "tremorlabs/tremor",
+    "desc": "React components to build charts and dashboards",
+    "officialSite": "https://tremor.so",
+    "topics": ["react-components", "reactjs", "tailwindcss", "typescript", "ui-system"]
+  }, {
+    "repo": "vercel/react-tweet",
+    "desc": "Embed tweets in your React application.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": []
+  }, {
+    "repo": "advanced-cropper/react-advanced-cropper",
+    "desc": "The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers that exactly suited for your website design",
+    "officialSite": "https://advanced-cropper.github.io/react-advanced-cropper/",
+    "topics": ["advanced", "cropper", "flexible", "image", "image-cropper", "image-cropping", "image-manipulation", "library", "react", "react-component", "react-cropper"]
+  }, {
+    "repo": "mobxjs/mobx",
+    "desc": "Simple, scalable state management.",
+    "officialSite": "http://mobx.js.org",
+    "topics": ["javascript", "mobx", "react", "reactive-programming", "typescript"]
+  }, {
+    "repo": "i18next/react-i18next",
+    "desc": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+    "officialSite": "https://react.i18next.com",
+    "topics": ["i18n", "i18next", "internationalization", "react", "react-native", "ssr", "translation"]
+  }, {
+    "repo": "jsxstyle/jsxstyle",
+    "desc": "Inline style system for JSX",
+    "officialSite": "https://jsx.style/",
+    "topics": ["css", "css-in-js", "inline-styles", "jsxstyle", "react"]
+  }, {
+    "repo": "alangpierce/sucrase",
+    "desc": "Super-fast alternative to Babel for when you can target modern JS runtimes",
+    "officialSite": "https://sucrase.io",
+    "topics": ["compiler", "es-modules", "javascript", "jsx", "typescript"]
+  }, {
+    "repo": "transitive-bullshit/react-static-tweets",
+    "desc": "Extremely fast static renderer for tweets.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": ["nextjs", "react", "ssr", "tweet", "tweets", "twitter"]
+  }, {
+    "repo": "preactjs/preact-render-to-string",
+    "desc": ":page_facing_up: Universal rendering for Preact: render JSX and Preact components to HTML.",
+    "officialSite": "http://npm.im/preact-render-to-string",
+    "topics": ["html", "preact", "preact-components", "universal"]
+  }, {
+    "repo": "lewhunt/divz",
+    "desc": "A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos: https://lewhunt.github.io/divz/",
+    "officialSite": "https://lewhunt.github.io/divz/",
+    "topics": ["3d", "carousel", "component", "css3", "deck", "experimental", "gallery", "presentations", "react", "scroll", "showcase", "slider", "slides", "slideshow", "swipe", "time-machine", "typescript", "ui-design", "ux-ui", "zoom"]
+  }, {
+    "repo": "daangn/stackflow",
+    "desc": "🧱 Mobile-first stack navigator framework with composable plugin system",
+    "officialSite": "https://stackflow.so",
+    "topics": ["framework", "mobile", "navigator", "plugin", "react", "stack", "system", "typescript", "webview"]
+  }, {
+    "repo": "expo/react-conf-app",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jovotech/jovo-framework",
+    "desc": "🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more",
+    "officialSite": "https://www.jovo.tech",
+    "topics": ["alexa", "amazon-alexa", "chatbots", "conversational-ai", "facebook-messenger", "google-assistant", "jovo-framework", "voice", "voice-applications", "voice-assistant"]
+  }, {
+    "repo": "alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mdx-editor/editor",
+    "desc": "A rich text editor React component for markdown",
+    "officialSite": "https://mdxeditor.dev",
+    "topics": ["editor", "lexical", "markdown", "markdown-editor", "mdx", "react", "reactjs", "rich-text-editor"]
+  }, {
+    "repo": "gregberge/twc",
+    "desc": "Create reusable React + Tailwind CSS components in one line ✨",
+    "officialSite": "https://react-twc.vercel.app",
+    "topics": ["react", "styled-components", "tailwindcss"]
+  }, {
+    "repo": "schedule-x/schedule-x",
+    "desc": "Material design event calendar and date picker",
+    "officialSite": "https://schedule-x.dev",
+    "topics": ["calendar", "date-picker", "javascript", "react", "vue"]
+  }, {
+    "repo": "prabhuignoto/react-chrono",
+    "desc": "🕑 Modern Timeline Component for React",
+    "officialSite": "https://react-chrono.prabhumurthy.com",
+    "topics": ["horizontal-timeline", "javascript-timeline", "react", "react-timeline", "reactjs", "slideshow", "timeline", "timeline-component", "typescript", "vertical-timeline", "vertical-timeline-react"]
+  }, {
+    "repo": "react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "officialSite": "https://react-hook-form.com",
+    "topics": ["dx", "form-builder", "forms", "react-hooks", "react-native", "reactjs", "typescript", "ux", "validation"]
+  }, {
+    "repo": "holtzy/react-graph-gallery",
+    "desc": "A set of graph examples showing how to make react and d3.js work together",
+    "officialSite": "https://www.react-graph-gallery.com",
+    "topics": ["d3js", "data", "dataviz", "react"]
+  }, {
+    "repo": "toss/suspensive",
+    "desc": "Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)",
+    "officialSite": "https://suspensive.org",
+    "topics": ["async", "errorboundary", "react", "react-query", "ssr", "suspense", "suspensive"]
+  }, {
+    "repo": "stevenpetryk/mafs",
+    "desc": "React components for interactive math",
+    "officialSite": "https://mafs.dev",
+    "topics": ["math", "react", "visualization"]
+  }
+]

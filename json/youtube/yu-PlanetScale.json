@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "PlanetScale",
+    "name": "PlanetScale",
+    "profile": "https://yt3.googleusercontent.com/iCbshZXfn5IuvfQEL4crHCMUc8rECfxS3YN63MBZ8x3e_lGlJIUljG5rn2RabfGmGZrdcAYp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7IP22BjAJ9JwfnWeXjfr9Ep5D087UD0lXDdehEUjcctUvZK7ezBZVl1fGZmNyc1P0qLmODKfcw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZExySAAegYE", "title": "Creating HUGE indexes on 1 Billion+ rows in MySQL" },
+    { "id": "Cx_kQLlJ_Vc", "title": "Bad Schema? Improve it with this tool." },
+    { "id": "9FYedahsJxE", "title": "How Vitess powers your PlanetScale database" },
+    { "id": "x94XGRymwI4", "title": "Improve your MySQL database performance with this key setting" },
+    { "id": "CTwcBdQ6hGc", "title": "Slow database? Replicas are here to help." },
+    { "id": "GfKZEd-dwKU", "title": "How do online schema change tools work?" },
+    { "id": "rP0lZ_T5P28", "title": "I loaded 100,000,000 rows into MySQL (fast)" },
+    { "id": "ggqI40wMDkE", "title": "Auto-generate MySQL schema diagrams with a custom Figma plugin" },
+    { "id": "2mq8aGRaL1o", "title": "Increase speed and durability with MySQL replication (2 easy ways)" },
+    { "id": "dJ_94Pz54Ts", "title": "Watch me 100x a SQL query (in 10 mins)" },
+    { "id": "ZdLd5Ijlv1o", "title": "Working with time series data in MySQL" },
+    { "id": "wTcpZWPHl6w", "title": "RAND is too slow (in MySQL)" },
+    { "id": "NZqFiBDQG1s", "title": "Two new MySQL expressions" },
+    { "id": "KZoS1fEPx5Q", "title": "Faster than a regular database index" },
+    { "id": "csLHXmVLGbs", "title": "Many to many relationships in MySQL" },
+    { "id": "cDzrY-QW4Ck", "title": "Storing feature flags as JSON (with indexing)" },
+    { "id": "kkjAxSViOAA", "title": "Saving a SaaS on the weekend" },
+    { "id": "QZBxgX2OWbI", "title": "You don't need NoSQL (use MySQL)" },
+    { "id": "7V_CJBPZPes", "title": "I love my database GUI" },
+    { "id": "d6HaTHkXqcQ", "title": "Your database will break in 2038 (or sooner)" },
+    { "id": "5aezDBaNfcc", "title": "Faster database indexes (straight from the docs)" },
+    { "id": "sJVzvBLDqqw", "title": "Make your database queries 1000 times faster!" },
+    { "id": "QgnCB8X_sN4", "title": "Searching by location in MySQL" },
+    { "id": "H6juZ8c_Nu8", "title": "Stop using `COUNT(id)` to count rows" }
+  ]
+}

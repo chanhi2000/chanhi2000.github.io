@@ -1,0 +1,62 @@
+import{_ as v}from"./plugin-vue_export-helper-DlAUqK2U.js";import{r as d,o as h,c as p,a as e,t as g,b as n,w as a,d as i,e as o}from"./app-CtVGPIIl.js";const f={},k={id:"frontmatter-title-관련",tabindex:"-1"},C={class:"header-anchor",href:"#frontmatter-title-관련"},w={class:"table-of-contents"},x=e("hr",null,null,-1),A=e("h2",{id:"flowchart",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#flowchart"},[e("span",null,"Flowchart")])],-1),_=e("h3",{id:"simple",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#simple"},[e("span",null,"Simple")])],-1),j=e("div",{class:"language-mermaidjs line-numbers-mode","data-ext":"mermaidjs","data-title":"mermaidjs"},[e("pre",{class:"language-mermaidjs"},[e("code",null,`graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"})])],-1),B=e("h3",{id:"live-network-diagram-influxdb-grafana",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#live-network-diagram-influxdb-grafana"},[e("span",null,"Live Network Diagram Influxdb Grafana")])],-1),y={href:"https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNqFlGFr2zAQhv-K0KeW1Y6kkLUNobAloRTSEuIwBvM-yJbWiNmykOWVkuS_75zEdhx76weB7nzvq3tORlscZ0LiMX613GzQehZqlCj9O3DviURC_uJF4pDSTlqTJdxJFPFc5VD1xjX9MYll-elhFiwQJWRACXqOJpF9KBclPuRgMZ9OBqfKn57n2ayA7bYSz8WrXB1S3vczLSP-kJwp93CoMldXlawse1pWgrrs-trzTyeAQOi8rZi9BB9IAIzVYIv1HI3IgLW47gHo851Pe7HA4biBzA74n6MdN7Xfau19mVJGSAd02Hi1LR6jnYlrhuW0O6J70qB0tPmbcvGmbmC98IJHSkbzjg1rNZAX0fGXsFJQiLmBGcU8pXUnU55Ky7vd3NJWN5WQfSxkXaHZZFo28GXUw99zorK16mnVldy1Rya1uGBmZXwYXXOPRjX0q6VCw69d41Hb-MyivEfFLgw-9TjQfzkcmtB_GrKXbz1ot__rIOHGZaY2WBzCnomyy_HgGwy3lnIl4LHYQg6F2G1kKkM8hu3ppQhxqPdQWhgBb8VcKJdZPHa2kDeYFy4L3nVcxceameIw8_SY3P8F0FRzsw",target:"_blank",rel:"noopener noreferrer"},M=e("div",{class:"language-mermaidjs line-numbers-mode","data-ext":"mermaidjs","data-title":"mermaidjs"},[e("pre",{class:"language-mermaidjs"},[e("code",null,`graph TD
+  linkStyle default interpolate basis
+  wan1[<center>DSL 100/10 Mb<br><br>10.100.102.1</center>]---router{<center>EdgeRouter-X<br><br>10.20.30.1</center>}
+  ip((<center><br>IP<br><br></center>))-.-router
+  dns((<center><br>DNS<br><br></center>))-.-router
+  wan2[<center>LTE 50/20 Mb<br><br>192.168.1.1</center>]---router
+  router---|100Mb|ap[<center>RT-AC1200<br><br>10.20.30.3</center>]
+  router---|1Gb|pc(<center>PC<br><br>10.20.30.190</center>)
+  router---|1Gb|switch[<center>TL-SG105E<br><br>10.20.30.2</center>]
+  subgraph red1
+    ap-.-cam1(<center>Camera<br><br>10.20.30.171</center>)
+    ap-.-cam2(<center>Camera<br><br>10.20.30.172</center>)
+    ap-.-phone(<center>Phone<br><br>10.20.30.191</center>)
+    ap-.-ir(<center>IR<br><br>10.20.30.180</center>)
+  end   
+  subgraph red2
+    switch---|100Mb|pi1(<center>RPi 3B<br><br>10.20.30.150</center>)
+    switch---|1Gb|pi2(<center>RPi 3B+<br><br>10.20.30.151</center>)
+    switch---|100Mb|nvr(<center>NVR<br><br>10.20.30.170</center>)
+    switch---|1Gb|laptop(<center>Laptop<br><br>10.20.30.192</center>)
+  end
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"})])],-1),J=e("hr",null,null,-1),G=e("h2",{id:"sequence",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sequence"},[e("span",null,"Sequence")])],-1),S=e("details",{class:"hint-container details"},[e("summary",null,"Click here to view code"),e("div",{class:"language-mermaidjs line-numbers-mode","data-ext":"mermaidjs","data-title":"mermaidjs"},[e("pre",{class:"language-mermaidjs"},[e("code",null,`sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"}),e("div",{class:"line-number"})])])],-1),I=e("hr",null,null,-1),F=e("h2",{id:"gantt",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gantt"},[e("span",null,"Gantt")])],-1),Y=o(`<details class="hint-container details"><summary>Click here to view code</summary><div class="language-mermaidjs line-numbers-mode" data-ext="mermaidjs" data-title="mermaidjs"><pre class="language-mermaidjs"><code>gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram to mermaid
+excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></details><hr><h2 id="class" tabindex="-1"><a class="header-anchor" href="#class"><span>Class</span></a></h2>`,3),L=o(`<details class="hint-container details"><summary>Click here to view code</summary><div class="language-mermaidjs line-numbers-mode" data-ext="mermaidjs" data-title="mermaidjs"><pre class="language-mermaidjs"><code>classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></details><hr>`,2);function X(m,Q){const r=d("router-link"),t=d("Mermaid"),c=d("Tabs"),u=d("ExternalLinkIcon"),b=d("TagLinks");return h(),p("div",null,[e("h1",k,[e("a",C,[e("span",null,g(m.$frontmatter.title)+" 관련",1)])]),e("nav",w,[e("ul",null,[e("li",null,[n(r,{to:"#flowchart"},{default:a(()=>[i("Flowchart")]),_:1}),e("ul",null,[e("li",null,[n(r,{to:"#simple"},{default:a(()=>[i("Simple")]),_:1})]),e("li",null,[n(r,{to:"#live-network-diagram-influxdb-grafana"},{default:a(()=>[i("Live Network Diagram Influxdb Grafana")]),_:1})])])]),e("li",null,[n(r,{to:"#gantt"},{default:a(()=>[i("Gantt")]),_:1})]),e("li",null,[n(r,{to:"#class"},{default:a(()=>[i("Class")]),_:1})])])]),x,A,_,n(c,{id:"13",data:[{id:"Diagram"},{id:"Code"}],active:0},{title0:a(({value:l,isActive:s})=>[i("Diagram")]),title1:a(({value:l,isActive:s})=>[i("Code")]),tab0:a(({value:l,isActive:s})=>[n(t,{id:"mermaid-15",code:"eJxLL0osyFAIcbHmUgACR11dOycE0xnCdAIyoQqcIUwAQZAKmA=="})]),tab1:a(({value:l,isActive:s})=>[j]),_:1}),B,e("blockquote",null,[e("p",null,[e("a",y,[i("link"),n(u)])])]),n(c,{id:"29",data:[{id:"Diagram"},{id:"Code"}],active:0},{title0:a(({value:l,isActive:s})=>[i("Diagram")]),title1:a(({value:l,isActive:s})=>[i("Code")]),tab0:a(({value:l,isActive:s})=>[n(t,{id:"mermaid-31",code:"eJyFktFqwjAYhe99ilwqozWJOBVE2FREUJG2jMHYRdpmGlbb0NbJmHv3/bWaGFvmRSBJ852cc9JNyuQWeZMGQpGIP938O+Io5B9sH+VIxDlPZRKxnCOfZSKDUwcWk7dhwItPo4m7QATjNsFo6Q/9dFQMgm3Yg0FtMmyfT75blpUme5j+XOBpuOHOact6vWIptjtAK/IXLhWy2bxgxbH5+gKoY62WZZ9vACCMM5OYrNw7CASjKtjCm6IublMj1wACPfZtUhsLFMoJ7Bwh/9I/Mqn0HM96GhOKcSVoR2uZEjP/KAOVYT2uVjTAOkqFzQ4iD7bKgLew3BnB3WlFhhoGsr1f/hIpDwmsEWISWgrYjigvY7bjKav66eleCj8apfdR7eIKldsk5rqCYlXTQu2tIlXc3KlCfbM6HocA3sSnJ7WyR/2oUuginLVAneeqetdUN0SKZxW6kFLioUbjNtatkfhLR1y91GTs/e8iYjJPpJJYnJY19ZovA001/gBsU0Ov"})]),tab1:a(({value:l,isActive:s})=>[M,J,G,n(t,{id:"mermaid-39",code:"eJxtT81OwzAMvu8pvDuIe4WCQAjQDhx4Azc1jYWJQ+qC+vYkWTRt0nyyvl99C/2sFD09M84Zv3fQLmE29pwwGjwKe7qCP+nY0aa4de6gIQ7wRiIK9b+BoH+AmWDT9aGLRTUVDYoFH8h/dbhe9ZxiXngOBjgjx8UgbEl90Dhlxu6gOPXvXY0gN71+tpQBPtBYIwpY0LUwC9yP+c6lTL/Isu/O1lgq24IBXjOhXXDOlZllU90x6mrnSwpTvce+g4psMKtO+90/jY9m6A=="}),S]),_:1}),I,F,n(t,{id:"mermaid-49",code:"eJyVU01v2zAMvfdXEAYKtIAzxGk2dLkFCToMWHfqZbeqEp0ItaVAorfm34+UP2A3adHqJJt6j4+P5E45ogsAowjvfKgVAfzhM7u/n223HCBLFUJ71sZYt4Mf698PD2Cs2gVVQ9k4TdY7VVk6AnmokWmsYSy+6KoxGAX7D/EZnYn8+/ISrh772CMorfFAEeIBtS2tTloiWDcSAmXSlnPsGMGXQHtMlHCVxcbx3+wafICsT5Pl8NQQOE/tUx9MGxSC7Mv1BeuImITDur/xv42vDxUSGiAVn7u601kZ7zCXG6sucljMi+VsXszm3/LhessMa6b6iydwYVApxBzMsBgxfM/hRvy6a6gJ56HDjaE3OaiSMHQ0X19BF+9AlyMo0zB05MMmWLJaVYlFGvXKDO6IeKn7Z5V1CCv55L4kc8aeLPfM8FMIanQEBxUi5z1zJgyDOnFYCtsE5HEAnggeEZ6Cc0QdQ2/viZcsfCp6iksGnuQJPEYYJplWSRFvwWjMz1XEL4uJs1uvG3FBdVO2xcipnxDS+kE8cujlrWlRbMXYllSeiGjB/R6yJIO1Z392XYGrFqUKAGmN9ENgipdiL2xvAHnQ9ZCyBS9v9+NyfqnIooed+Vg1bQWJ+uMVfEK1aPwPxhRkQQ=="}),Y,n(t,{id:"mermaid-57",code:"eJxl0E0LgkAQBuC7v+I9lqBU9mEiRegx6NghOqwy6Mbqlm5B4Y9P29iUbrPPzrzsTipYXcecZRUrLCDqjpMpwsZxsHtQ9dzLMvsoAkRSCtPkwW57dD03uoA0ujS6gut+S9/gGo6zQTRrg485VQRWgG8H1zYibwBNO6ATe9kB6HZnoh6NB3hILpSq0xkkqKBSxUyx3hcD1PxFvZmOeKmQ5ry4/mkmKy7EL8BHqJ+v1wLBEhLWG1ybYD4="}),L,n(b)])}const z=v(f,[["render",X],["__file","examples.html.vue"]]),R=JSON.parse('{"path":"/programming/js-mermaid/examples.html","title":"Snippets","lang":"ko-KR","frontmatter":{"lang":"ko-KR","title":"Snippets","description":"Mermaid.js > Snippets","icon":"fas fa-eye-dropper","category":["Node.js","Mermaid.js","Snippets"],"tag":["node","nodejs","node-js","mermaid","mermaidjs","mermaid-js","example"],"head":[[{"meta":null},{"property":"og:title","content":"Mermaid.js > Snippets"},{"property":"og:description","content":"Snippets"},{"property":"og:url","content":"https://chanhi2000.github.io/programming/js-mermaid/examples.html"}]]},"headers":[{"level":2,"title":"Flowchart","slug":"flowchart","link":"#flowchart","children":[{"level":3,"title":"Simple","slug":"simple","link":"#simple","children":[]},{"level":3,"title":"Live Network Diagram Influxdb Grafana","slug":"live-network-diagram-influxdb-grafana","link":"#live-network-diagram-influxdb-grafana","children":[]}]},{"level":2,"title":"Gantt","slug":"gantt","link":"#gantt","children":[]},{"level":2,"title":"Class","slug":"class","link":"#class","children":[]}],"git":{},"readingTime":{"minutes":2.75,"words":824},"filePathRelative":"programming/js-mermaid/examples.md","excerpt":"\\n\\n<hr>\\n<h2>Flowchart</h2>\\n<h3>Simple</h3>\\n\\n<h3>Live Network Diagram Influxdb Grafana</h3>\\n<blockquote>\\n<p><a href=\\"https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNqFlGFr2zAQhv-K0KeW1Y6kkLUNobAloRTSEuIwBvM-yJbWiNmykOWVkuS_75zEdhx76weB7nzvq3tORlscZ0LiMX613GzQehZqlCj9O3DviURC_uJF4pDSTlqTJdxJFPFc5VD1xjX9MYll-elhFiwQJWRACXqOJpF9KBclPuRgMZ9OBqfKn57n2ayA7bYSz8WrXB1S3vczLSP-kJwp93CoMldXlawse1pWgrrs-trzTyeAQOi8rZi9BB9IAIzVYIv1HI3IgLW47gHo851Pe7HA4biBzA74n6MdN7Xfau19mVJGSAd02Hi1LR6jnYlrhuW0O6J70qB0tPmbcvGmbmC98IJHSkbzjg1rNZAX0fGXsFJQiLmBGcU8pXUnU55Ky7vd3NJWN5WQfSxkXaHZZFo28GXUw99zorK16mnVldy1Rya1uGBmZXwYXXOPRjX0q6VCw69d41Hb-MyivEfFLgw-9TjQfzkcmtB_GrKXbz1ot__rIOHGZaY2WBzCnomyy_HgGwy3lnIl4LHYQg6F2G1kKkM8hu3ppQhxqPdQWhgBb8VcKJdZPHa2kDeYFy4L3nVcxceameIw8_SY3P8F0FRzsw\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\">link</a></p>\\n</blockquote>"}');export{z as comp,R as data};

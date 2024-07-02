@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "EugeneIOSDev",
+    "name": "Eugene Berezin",
+    "profile": "https://yt3.googleusercontent.com/wFCRzCoySUiH-svfzjfqPBJ-C6mBLX4-8BmySpioqhJKYjjwFUM2A-88lviUJ_Rt-tuiqWD4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Sd5EF8J8PnPsaj_XJcFVpnJXpMTi44XGErK9ATawHW1q9GrGdbKGapqjF7jOq_imLtJh87wl-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AkqPyKuZeSE", "title": "Get More Aligned Clients NOW Challenge. Day 1." },
+    { "id": "0-hm4bDOnAE", "title": "REPLAY. Get More Aligned Clients NOW Challenge. Day 2." },
+    { "id": "7tYvzgz4X6c", "title": "3 Crucial Mistakes To Avoid In Your Career." },
+    { "id": "YmZadbXlWTg", "title": "The Truth About LinkedIn's Top Voice & Sales." },
+    { "id": "0n5vkpC41tA", "title": "How to integrate multiple social media platforms into your social selling strategy." },
+    { "id": "Y4FpQxKYC7s", "title": "The Critical Mistake Entrepreneurs Make in Social Selling & How to Avoid It" },
+    { "id": "-wpzHDeI3rg", "title": "Mastering Attraction Marketing: Strategies to Convert Content into Clients" },
+    { "id": "frs5pCliego", "title": "Beyond 9-5: Exploring Paths to Success Outside the Traditional Job" },
+    { "id": "dKIW69PGIIo", "title": "Launch Your Consulting or Coaching Business: A Step-by-Step Guide." },
+    { "id": "BdySBUg75NY", "title": "Coaches and Course Creators, Wake Up To Wealth in 2024. Jason's Success Story." },
+    { "id": "-wuDG9wvpcg", "title": "Number 1 skill that will set you apart from your competition in tech." },
+    { "id": "WYrT87qobqI", "title": "Mastering Algorithms and Data Structures in Swift A Comprehensive Technical Coaching Guide" },
+    { "id": "HHBpV8V4ito", "title": "Breaking the Mold: Unveiling Why the Best in Tech Miss Out on Jobs" },
+    { "id": "JXzEW_qnFMA", "title": "Algorithms and Data Structures. How to win tech job market in 2024." },
+    { "id": "qa0nCBhOdek", "title": "3 Most important steps you should implement right now to be more visible in tech." },
+    { "id": "JXzEW_qnFMA", "title": "Algorithms and Data Structures. How to win tech job market in 2024." },
+    { "id": "eGS_oEiigIQ", "title": "XCUITest Decoded: A Glimpse into Technical Coaching Behind the Scenes" },
+    { "id": "txSB-ehIQs8", "title": "Client Testimony.  Why coaching for software developers matters." },
+    { "id": "dksonfFS7sE", "title": "New AttributedString in SwiftUI and UIKit + Materials in SwiftUI." }, 
+    { "id": "-4Q8pnZ4u9Y", "title": "How to use user defaults in SwiftUI. GitHub Jobs API with SwiftUI. Lesson 5" }, 
+    { "id": "4OZTIuyh4T0", "title": "Building Job View. LazyVGrid, SwiftUI tutorial lesson # 4." }, 
+    { "id": "TleFC0F1nPY", "title": "GitHub Jobs API course. UIStackView, TextView, UIButton. Lesson 3." }, 
+    { "id": "jcgoxAfb1bU", "title": "New iOS course!" }, 
+    { "id": "AxvzCvT5PFk", "title": "XCUITest Introduction" }
+  ]
+}

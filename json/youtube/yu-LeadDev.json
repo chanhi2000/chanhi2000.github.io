@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "LeadDev",
+    "name": "LeadDev",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ39R-I0X1GLf3VrBCog08l34CjOqR41X30o1oT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dwT77K2YhX-UaBKr_ESuCYnVYRnKyhS8NfPzTMJW-36FCRSfZybIALahrfsVvBFiSNIPzJ4kKw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZM7fBR8HsVk", "title": "What is the role of the engineering manager in the hiring process?" },
+    { "id": "RDdqSx4Y3zQ", "title": "Help your engineering, product and security teams get on the same page" },
+    { "id": "e8i7IHBqIzY", "title": "Essential soft skills you need to succeed as an engineer" },
+    { "id": "C-A5L09VPvo", "title": "Does your org need platform engineering?" },
+    { "id": "KGt_PYvrbjw", "title": "Making cloud native work for your org" },
+    { "id": "Pn8Ji9xeIRI", "title": "Think faster, talk smarter: Matt Abrahams in conversation" },
+    { "id": "fvGm1nJ8blA", "title": "A guide to creating a great code documentation culture" },
+    { "id": "TQUzV4JubB0", "title": "How to communicate effectively as an IC" },
+    { "id": "c5YhGDk0BFw", "title": "Practically engaging with AI" },
+    { "id": "xo_f9O8bMNw", "title": "Avoiding the priority zero trap | LeadDev Broadcasts" },
+    { "id": "o9sqIOqrzXs", "title": "Why being laid off can help you be a better manager" }, 
+    { "id": "_XT3AkDMVoY", "title": "Reducing the burden of incident response on your teams" }
+  ]
+}
