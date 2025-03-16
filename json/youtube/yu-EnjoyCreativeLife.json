@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "EnjoyCreativeLife",
+    "name": "런타임",
+    "profile": "https://yt3.googleusercontent.com/TvIAk3jfPR1PX2ZnV6aIOeGTGCtAUQVOp5nK4-KyctnbQt3w9E0JKJXL4cibSD0quDaxLp-VOQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/obw_tiZyt329rVQED4NEAfU0W4QZeUf5AuKMhHtXxFsmo3eLBe0EYa8q4cxkWXvI61Qods03oJQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JuuL5E2jYgU", "title": "거꾸로 가는 CG" },
+    { "id": "cXrLDPmOA3c", "title": "3D 작업을 아이패드로!" },
+    { "id": "ftIcCC1czY4", "title": "3D 디지털 쿠팡" },
+    { "id": "yFo8SPBCZ1Y", "title": "믹의 실험" },
+    { "id": "BpaLr7V5fjQ", "title": "3D 페더급 월드 챔피언" },
+    { "id": "XOsqrsY13yE", "title": "오토데스크의 프로씨쥬얼 워크 플로우" },
+    { "id": "foJKGf1Wy9A", "title": "챗지피티4o 무료 출시" },
+    { "id": "iJuGCG9JrrU", "title": "오토데스크의 AI 프로젝트" },
+    { "id": "ryoo_vytZW4", "title": "오토데스크의 인수분해 공식" },
+    { "id": "6cgG-uZl6NY", "title": "30년만의 퇴출" },
+    { "id": "0xTEk6PNfiU", "title": "지오메트리 노드들" },
+    { "id": "hCUv76DZqBM", "title": "지오메트리 노드 전공필.수학" },
+    { "id": "UO02SBKgeXc", "title": "A.I 소라와 ㅅㄹ기술" },
+    { "id": "UO02SBKgeXc", "title": "ㅅㄹ의 추억" },
+    { "id": "-f5StAUYXKg", "title": "사장님, 여기 무료 오픈 소스 하나 추가요!" },
+    { "id": "wAqomb2TGqY", "title": "지오메트리 노드 산책" },
+    { "id": "8G9tg6VzIyg", "title": "사람을 움직이게 하는 것" },
+    { "id": "ctgvXYIBo0Q", "title": "무료 프로그램 블렌더가 버는 돈, 쓰는 돈" },
+    { "id": "lRL22ze-wXs", "title": "블렌더의 위상" }
+  ]
+}

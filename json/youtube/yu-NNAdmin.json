@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "NNAdmin",
+    "name": "Nielsen Networking",
+    "profile": "https://yt3.googleusercontent.com/5ocmXmkvE6DKlu7iajYQLTfDynouX5lRwzrQ3wDhllUHUEyK9Vx2TDqwyHPMniVzUxOh_KG4TA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lALI1s2SUPFkR5upugjfmIyytFAXOZV1QLgr9PRhoYTIyiGDD7f0w_RQenE9EQbfvh9oAiXf=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M3K0dVErvIo", "title": "Careful What You Google | SEO Poisoning" },
+    { "id": "NJHmmXa6BzQ", "title": "Linux Permissions for Ethical Hackers & Sysadmins" },
+    { "id": "4TsEqrs09SM", "title": "How to Hide Data in Images: Steganography for Ethical Hacking" },
+    { "id": "Rltbz1z-hLU", "title": "Essential Linux Commands for Ethical Hackers: A Comprehensive Tutorial" },
+    { "id": "SXMkY-u8Vhk", "title": "How to Build Your Own Virtual Lab to Practice Penetration Testing" },
+    { "id": "GAe_ypFbufQ", "title": "How to Use John The Ripper for Penetration Testing" },
+    { "id": "v8ThuHceRfM", "title": "Penetration Testing with Wireshark: A Step by Step Tutorial" },
+    { "id": "W-drykWYYE0", "title": "Scary Linux Supply Chain Backdoor Discovered | CVE 2024-3094" },
+    { "id": "wlqUO09J-nw", "title": "Penetration Testing with Nmap: A Comprehensive Tutorial" },
+    { "id": "lTyVksdhddY", "title": "Penetration Testing with Hydra and Kali Linux" },
+    { "id": "_D7sTx93gZ4", "title": "`rsync` | The most powerful backup tool you're not using" },
+    { "id": "VvsSVQhrzf4", "title": "The Top 10 Linux Command Line Tools You Need to Know" },
+    { "id": "A2wLESuBurc", "title": "Penetration Testing with Nmap: Scanning for UDP Ports" }
+  ]
+}
