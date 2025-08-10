@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "hyena-sunny",
+    "name": "중써니",
+    "profile": "https://yt3.googleusercontent.com/Sw9wkwfOqflZJf_Grvm8Jjs1FYxysb_GcvMwe_y7PakseaU2-UEH_dJpaaNQRtsHJfZN9zRGzA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "uWfOAOxLQUU", "title": "신입 팀원이 깜짝놀라는 폴더구조" },
+    { "id": "nPzVMHKaTCI", "title": "Chrome 당신이 몰랐던 6가지 사실" },
+    { "id": "KfS0_DTxL2U", "title": "몰라서 자주하는 실수들 (feat. 리액트 공식문서)" },
+    { "id": "hb4RmDas9is", "title": "신입 때 몰랐던 Git 실수들" },
+    { "id": "YHvu6775tKw", "title": "2024년인데 CSS 써도 됨?" },
+    { "id": "QksJnphedRI", "title": "설마... 3시간도 집중 못하는건 아니죠? | 3-Hour Code With Me 🍁 Chu-Suck-Teugzip 🇰🇷" },
+    { "id": "kgnv6ZOa81w", "title": "면접 나락가는 프론트엔드 지식" },
+    { "id": "VBdpGrSVDuI", "title": "이것만 알면 스타일드컴포넌트 마스터?" },
+    { "id": "0_37mMKjHig", "title": "프론트엔드 개발자 대부분 몰라서 안쓰는 미친 기능" },
+    { "id": "D87ELvuLDdU", "title": "채찍피티지능 3.0 VS 4.0" },
+    { "id": "n7MFoTaqM3I", "title": "개발자 99%가 모르는 CSS" }
+  ],
+  "playlists": [
+
+  ]
+}
