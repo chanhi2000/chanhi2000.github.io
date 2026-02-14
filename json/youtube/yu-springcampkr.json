@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "springcampkr",
+    "name": "SpringCamp by KSUG",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhmLz-PHh32QLgB6fsTTJCJG8WfpgtdCY1fAn=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "IF9Uv5ceB1Q", "title": "스프링캠프 2024 [Track 1] 1.켄트 벡의 Tidy First? (안영회)" },
+    { "id": "WgZrufpIURY", "title": "스프링캠프 2024 [Track 1] 2.Spring AI : LLM에도 봄이 찾아오다 (황민호)" },
+    { "id": "pCE7ibRCZEI", "title": "스프링캠프 2024 [Track 1] 3.왜 나는 테스트를 작성하기 싫을까? (조성아)" },
+    { "id": "raPJqrtGMxY", "title": "스프링캠프 2024 [Track 1] 4.실전! MSA 개발 가이드 (김용욱)" },
+    { "id": "6PR8AoDqinE", "title": "스프링캠프 2024 [Track 1] 5.구해줘 홈즈! (이영규)" },
+    { "id": "MnkUX_E9SLg", "title": "스프링캠프 2024 [Track 2] 1.동시성의 미래 - 코루틴과 버츄얼 스레드 (이상훈)" },
+    { "id": "Zrq-3ayGddM", "title": "스프링캠프 2024 [Track 2] 2.Spring Coroutine in action (최진영)" },
+    { "id": "5x2KwkFVw-c", "title": "스프링캠프 2024 [Track 2] 3.스프링 R2DBC 연동 기능을 활용한 작은 코틀린 SQL DSL 개발기 (오현석)" },
+    { "id": "ThI9ojBi-OE", "title": "스프링캠프 2024 [Track 2] 4.데이터를 스케치 하기 (황영)" },
+    { "id": "vcc6hcxBqhA", "title": "스프링캠프 2024 [Track 2] 5.AutoParams를 사용한 Spring Boot 응용프로그램 테스트 (이규원)" },
+    { "id": "u_y6UGzOPUk", "title": "스프링캠프 2023 [Session 4] 대규모 엔터프라이즈 시스템 개선 경험기 - 2부 - 새 술 담을 새 부대 마련하기 (김선철)" }, 
+    { "id": "UwAoUshVpgM", "title": "스프링캠프 2023 [Session 3] 대규모 엔터프라이즈 시스템 개선 경험기 - 1부 - 달리는 기차의 바퀴 갈아 끼우기 (임형태)" }, 
+    { "id": "b0qGno4VJ8I", "title": "스프링캠프 2023 [Session 2] 글로벌 서비스를 위한 Timezone/DST (김대겸)" }, 
+    { "id": "XBXmHCy1EBA", "title": "스프링캠프 2023 [Session 6] 구현부터 테스트까지 - 대용량 트래픽 처리 시스템 (이경일)" }, 
+    { "id": "XSkz0kO7J3w", "title": "스프링캠프 2023 [Session 5] 실무에서 적용하는 테스트 코드 작성 방법과 노하우 (김남윤)" }, 
+    { "id": "2YbqvLuwiY8", "title": "스프링캠프 2023 [Session 7] Journey to Modern Spring (클라우드 시대를 맞이하는 스프링의 자세) (박용권)" }, 
+    { "id": "1WT6oxchM9M", "title": "스프링캠프 2023 [Session 1] 어느 #월급쟁이개발자 의 스프링 부트 따라잡기 Ver. 3 (김지헌)" }, 
+    { "id": "n3fys2E1Lps", "title": "스프링캠프 2019 [Track 2 Session 6] : Local Cache와 Invalidation Message Propagation 전략을 활용하여 API 성능" }
+  ],
+  "playlists": [
+    {
+      "title": "SpringCamp 2023",
+      "videos": [
+        { "id": "1WT6oxchM9M", "title": "스프링캠프 2023 [Session 1] 어느 #월급쟁이개발자 의 스프링 부트 따라잡기 Ver. 3 (김지헌)" },
+        { "id": "b0qGno4VJ8I", "title": "스프링캠프 2023 [Session 2] 글로벌 서비스를 위한 Timezone/DST (김대겸)" },
+        { "id": "UwAoUshVpgM", "title": "스프링캠프 2023 [Session 3] 대규모 엔터프라이즈 시스템 개선 경험기 - 1부 - 달리는 기차의 바퀴 갈아 끼우기 (임형태)" },
+        { "id": "u_y6UGzOPUk", "title": "스프링캠프 2023 [Session 4] 대규모 엔터프라이즈 시스템 개선 경험기 - 2부 - 새 술 담을 새 부대 마련하기 (김선철)" },
+        { "id": "XSkz0kO7J3w", "title": "스프링캠프 2023 [Session 5] 실무에서 적용하는 테스트 코드 작성 방법과 노하우 (김남윤)" },
+        { "id": "XBXmHCy1EBA", "title": "스프링캠프 2023 [Session 6] 구현부터 테스트까지 - 대용량 트래픽 처리 시스템 (이경일)" },
+        { "id": "2YbqvLuwiY8", "title": "스프링캠프 2023 [Session 7] Journey to Modern Spring (클라우드 시대를 맞이하는 스프링의 자세) (박용권)" }
+      ]
+    }
+  ]
+}
+

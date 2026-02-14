@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "programmingwithmosh",
+    "name": "Programming with Mosh",
+    "profile": "https://yt3.googleusercontent.com/ebu9ZksIXw0tUWBZd6rtk-It8VGSk8AdfSI_eGR-fl6WGet9LnVPngNQCmjdLJeGXpuylwYInQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q_ypVrP2RYzpxtxNySrT-0lUHjZt5O50RnmXqcve69fNHKM1dkG0zuLyxdEyTRD1L_RFz_Jkdg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gJrjgg1KVL4", "title": "Spring Boot Tutorial for Beginners - Your First Spring Boot Application" },
+    { "id": "v73-ps01c5w", "title": "What is Spring Boot? (And Why It’s a Must-Learn for Java Devs)" },
+    { "id": "gdiao7L9GjE", "title": "From Zero to Blockchain Developer in 10 Months: Complete Roadmap" },
+    { "id": "v7BNtpw53AA", "title": "The Complete Cybersecurity Roadmap: Land a Cybersecurity Job in 10 Months" },
+    { "id": "fZmQ_aPXJAM", "title": "The Best Tech Jobs for 2025: High Demand & High Pay" },
+    { "id": "BGZB9dn0GV4", "title": "STOP Using AI-Generated Code Until You Watch This Video" },
+    { "id": "7IgVGSaQPaw", "title": "From 0 to Machine Learning Engineer in 12 Months: The Complete Roadmap" },
+    { "id": "GxmfcnU3feo", "title": "The Complete Web Development Roadmap [2024]" },
+    { "id": "9R3X0JoCLyU", "title": "The Complete Data Science Roadmap [2024]" },
+    { "id": "YRJbhFLLPyE", "title": "The Complete Data Analyst Roadmap [2024]" },
+    { "id": "6GQRb4fGvtk", "title": "The Complete DevOps Roadmap [2024]" },
+    { "id": "p4-imHH_xiw", "title": "Get Ready for Something Special – Announcement Inside!" },
+    { "id": "yVl_G-F7m8c", "title": "Python Projects for Beginners – Master Problem-Solving! 🚀" },
+    { "id": "FW49JfEXI3E", "title": "Never Leave VSCode Again!" },
+    { "id": "btpWt1Cas2I", "title": "JavaScript in 2 Minutes" },
+    { "id": "W2KOSaetWBk", "title": "What is Unit Testing and Why You Must Learn It" },
+    { "id": "KkmSR7c9qLc", "title": "What is Automated Testing" },
+    { "id": "p-h1LpM1xm4", "title": "5 Mistakes That Are Killing Your Coding Progress" },
+    { "id": "9d5JkpY_4PU", "title": "Stop Wasting Time on the Wrong Languages" },
+    { "id": "1mD7-WWKvto", "title": "Level Up Your VSCode Game: 5 Must-know Shortcuts" },
+    { "id": "6xrkbN6vz9U", "title": "Become the React Dev Top Companies Want" },
+    { "id": "J-graiyPhpw", "title": "9 Reasons People Hate JavaScript" },
+    { "id": "Tef1e9FiSR0", "title": "From 0 to Front-End Developer in 12 Months: The Complete Roadmap" },
+    { "id": "OeEHJgzqS1k", "title": "From 0 to Back-End Developer in 12 Months: The Complete Roadmap" },
+    { "id": "yye7rSsiV6k", "title": "From 0 to Mobile App Developer in 12 Months: The Complete Roadmap" },
+    { "id": "80FYJ9BEqxs", "title": "Level Up Your Coding Game with Multi-cursor Editing" },
+    { "id": "XyayvDGKSfM", "title": "This Robot Has a ChatGPT Brain! (Amazing or Scary?)" },
+    { "id": "27YP6n6pDh0", "title": "The FASTEST Way to Learn to Code & Get a Job" },
+    { "id": "TeQd4kOh3ow", "title": "Mind-Blowing AI: This Tool Clones Voices Perfectly" },
+    { "id": "zuKbR4Q428o", "title": "JavaScript Unit Testing Tutorial for Beginners" },
+    { "id": "8Xwq35cPwYg", "title": "React Testing for Beginners: Start Here!" },
+    { "id": "B5Kh0kZ-gA8", "title": "The Worst React Code!" },
+    { "id": "J9sfR6HN6BY", "title": "Next.js Projects:  Build a Full-stack App with Next.js, Tailwind, Radix UI, and Prisma" },
+    { "id": "SqcY0GlETPk", "title": "React Tutorial for Beginners" }, 
+    { "id": "_uQrJ0TkZlc", "title": "Python Tutorial - Python Full Course for Beginners" }, 
+    { "id": "0-S5a0eXPoc", "title": "React Native Tutorial for Beginners - Build a React Native App" }, 
+    { "id": "Ke90Tje7VS0", "title": "React JS - React Tutorial for Beginners" }, 
+    { "id": "E7Voso411Vs", "title": "Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh" }
+  ],
+  "playlists": [
+
+  ]
+}
