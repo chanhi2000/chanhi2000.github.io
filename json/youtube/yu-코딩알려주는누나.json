@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "코딩알려주는누나",
+    "name": "코딩알려주는누나",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhgxgBSMwGnm95Y7MCKqHxjjt0hwZbzZvJ56h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hnvrPXrMnzIWfh5sBVKzU3gZm9F5EdoVtL-V2Er-gYovHcI5EC3kwBx2DK6O3Vilgqzj3o54QQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mV_5vSQ57FM", "title": "비동기 핸들링에 최고! use 훅 | 리액트 19 업데이트 2탄" },
+    { "id": "hYqEdAd995c", "title": "딥시크 개발자 하드캐리  | 딥시크 기술분석 | 미친 최적화" },
+    { "id": "dh1dxT7D8rg", "title": "타입스크립트 전설의 강의 | 코딩에 진심인 사람을 위해 준비한 강의" },
+    { "id": "BMPvdcDjtOI", "title": "아직도  프론트엔드만 하는 개발자 입니까? | NodeJS 로 서비스 만들어 보자!" },
+    { "id": "3Gch9RBD7-g", "title": "블로그 글읽기 귀찮은 분들을 위한 무한스크롤 만드는법" },
+    { "id": "QEph95OWwPM", "title": "라이브러리 없이 무한 스크롤 가장 쉽게 만드는 법 알려드림 | 무한스크롤 만들기 2탄" },
+    { "id": "gn2C_0a-so4", "title": "당신의 사이트가 버벅인다면 꼭 보세요 | 코알누 세미나 2기 발표영상" },
+    { "id": "gdQzGkW5kps", "title": "리액트 19에서 새로나온 훅들 싹다 정리해드림 | useActionState, useOptimistic, useTransition, useFormStauts, use" },
+    { "id": "2YB5_F2dH_A", "title": "자바스크립트 배우고 그룹프로젝트 까지 할 사람 구함!" },
+    { "id": "8o60gzC4tjQ", "title": "프롬프트 엔지니어는 진짜 직업인가?" },
+    { "id": "-EQVeTGlurY", "title": "리액트 스터디모집 첫 라이브 방송입니당 ♥️ | 첫 별풍 후원 리액션 보러가기" },
+    { "id": "7o97MsGDsbU", "title": "맘에드는 API못 찾았을 때 보세요 | NODEJS 속성강의 👊" },
+    { "id": "MMX8ieAoSOs", "title": "NodeJS + 몽고DB 로 빠르게 백엔드 서비스 만드는 템플릿 알려드림 👊" },
+    { "id": "DkpyIKF6cPQ", "title": "AWS에서 알려주신 핫한 소식들고 날라왔습니다." },
+    { "id": "KJo_EQtG8Rw", "title": "컴포넌트 커터마이즈 하기 힘들었던 사람 다 들어와 | 스타일 컴포넌트, 테마 , css module 까지 싹 다 정리해줄게" },
+    { "id": "H7wtij7kghE", "title": "NodeJS 그룹프로젝트 하고 싶은 사람 모여라! | 풀스택 개발자 준비 모집! | 리액트 스터디 후기" },
+    { "id": "Q2Up3PN0-nM", "title": "국비지원에서 안알려주는 자료구조 | 스택, 큐 , 해시테이블, 연결리스트" },
+    { "id": "EFcJOqxw6W0", "title": "비전공자를 위한 올해의 마지막 자바스크립트 스터디 열차 출발 직전" },
+    { "id": "-gftAesO7pY", "title": "리액트 그룹프로젝트 하고 싶은 사람 모여라! | 자바스크립트 스터디 후기로 스터디의 위대함을 살펴보자" },
+    { "id": "9MTqnXqS1k0", "title": "코딩 한 달 배운 사람들의 실력 ㄷㄷ #리액트 #react #코딩독학 #코딩공부 #프론트엔드" },
+    { "id": "FwIUG6b0GOI", "title": "남들 구글 쓸 때 우린 네이버 쓰는 민족, 한국인을 위한 AI 서비스 출시" },
+    { "id": "Paht-0v8CnY", "title": "자바스크립트 그룹프로젝트 하고 싶은 사람 모여라! | 코딩 스터디 그룹 모집" },
+    { "id": "kllWOdnU1Fg", "title": "useRef 훅 누구보다 쉽게 설명해드림 | 지금 까지 useState만 썼다면 꼭 봐라" },
+    { "id": "0RQymLPFNXs", "title": "(2024 최신 후기) 코딩 학원의 실태와 취업률의 실태를 알려드립니다." },
+    { "id": "F-iaFWK7KIE", "title": "직접 비전공자들을 가르쳐 봤습니다. | 비전공자 코딩 2주 후.. 그 결과 공개| 1,2,3등 프로젝트 대 공개" },
+    { "id": "Mqh13dNI8jc", "title": "웹개발자면서 이것도 모름? | DOM과 CSSOM, 렌더링 과정" },
+    { "id": "pRGOEtGjI-k", "title": "어떻게 메세지를 주고받을까? | 웹소켓을 이용해 채팅앱을 만들어보자!" },
+    { "id": "uE9Ncr6qInQ", "title": "채팅앱 만들기 | 웹소켓이란 뭘까?| 풀스택으로 만들어보자" },
+    { "id": "GHHUjITelsA", "title": "타입스크립트 진짜 쉽게 설명해줌 | 이거보고도 이해 안되면 집가라" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "LearnWithHuw",
+    "name": "Learn With Huw",
+    "profile": "https://yt3.googleusercontent.com/idg-tUXjAcGXDfgv9ZuDfPmbZe4jWAjxVxkG1fROUPyyt3sH_82Dx7LhwTZm-zE8-GivZeE0-g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5W5zpv8wFqrsyxoFwWRKBiOumbBUdzO0Y58D73YVYIdV5cfRbTCBUEXwy2DugOSTCMkaKmf1Vg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0r8igpf4BA4", "title": "5 Things All C Programmers MUST Know (#5 is the Killer)" },
+    { "id": "KEKBQG4GDB8", "title": "Learn Object Pascal by Writing A Game (Code Along) Part #2: The Map" },
+    { "id": "7T7Z-AsmR40", "title": "Learn Object Pascal by Programming an Adventure Game. Start TODAY!" },
+    { "id": "udAAPsGpXpo", "title": "Code Like A PRO (and get your programs finished)" },
+    { "id": "L0l3LERJDwc", "title": "Do THIS To Master Programming (why coding exercises are KILLING your progress!)" },
+    { "id": "7qv4zqyG9jw", "title": "Program Like The 1980s. The RETRO Language You Need To Know!" },
+    { "id": "mJOhK6lfazA", "title": "I Wrote An “Impossible” Bug in a C Program. THIS is How I Fixed It." },
+    { "id": "ocOFKb6V6XE", "title": "Pointer Arithmetic – It’s Easier Than It Seems!  Find Out Why." },
+    { "id": "fWECtLifXxc", "title": "Learn to Code With Huw, The Channel for Serious Programmers" },
+    { "id": "bFAO99USrYI", "title": "Everything You Thought You Knew About Arrays is Wrong (in C Programming). This is Why." },
+    { "id": "qZR4lgq2i_w", "title": "How To Program Interactive Characters in an Adventure Game" },
+    { "id": "H18yIPSsgLg", "title": "The ONE Thing Most C Programmers Get Wrong!" },
+    { "id": "BsbdxMMYgUo", "title": "Write Commandline Pascal Programs in Lazarus" },
+    { "id": "7-Vpk4I1uTo", "title": "Move a Lost, Off-Screen Window Back On Screen  (using C#)" },
+    { "id": "mhpQsfI4SLE", "title": "Write an Adventure Game in Delphi or Free Pascal" },
+    { "id": "lddJhWWGcow", "title": "Write A Cross-Platform Adventure Game! (With Lazarus)" },
+    { "id": "JVS3nux9Kzw", "title": "Serialization in .NET  – BinaryFormatter Errors and How To Fix Them!" },
+    { "id": "E0kF0mv9s5M", "title": "Learn Pascal Programming With Lazarus and Free Pascal (First Lesson)" },
+    { "id": "gjlBbQca1k8", "title": "Learn Pascal Programming – Designing and Coding With Lazarus" },
+    { "id": "lRbzM_HuNEE", "title": "How To Dock the Lazarus IDE Inside A Single Window" },
+    { "id": "AJTrFaXCiw0", "title": "Learn Pascal Programming in 10 Minutes" },
+    { "id": "FR-9WFeAFnk", "title": "Using a Raspberry Pi on Windows (with the Remote Desktop)" },
+    { "id": "mKUKszsOSms", "title": "The Visual Studio Debugger Helped Me Bring an old MS-DOS Command Back From The Dead." },
+    { "id": "U49B3GSRz_o", "title": "I Wanted To Run DOS Commands in a C# WinForms Program. This is What I Did." }
+  ]
+}

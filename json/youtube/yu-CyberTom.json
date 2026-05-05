@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "CyberTom",
+    "name": "Cyber Tom",
+    "profile": "https://yt3.googleusercontent.com/UGqlGj_ShovxkRqMgI2uC4XstmIUMzD-pirv6mKbbZ6r2QAohy4ngaYbX58VWDuJMBszklzq8A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3Kc-gCcwu9k9sqKhoPHHkXPwe6e_Fnmb6ouHJ72ADPhDhrq8htmxwfFdjzFRFZQSPNyosOKqgtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FvBXM29pxLU", "title": "Cyber Security Skills That Are A MUST In 2024!!!" },
+    { "id": "u833vpa-dJQ", "title": "Is Help Desk Going To HELP You Get Into Cyber Security? Let's Find Out." },
+    { "id": "ihnxhW5LLTs", "title": "A REAL Example Of The Day In The Life Working Cyber Security!" },
+    { "id": "5LG43f7fZHo", "title": "These Cyber Security Jobs Will Make You ALOT Of MONEY!" },
+    { "id": "TZntcsA-vKw", "title": "I Found A Cyber Security Bootcamp With A Job Guarantee!" },
+    { "id": "NdLolC7JKk8", "title": "2024 Top 3 HACKING Certifications! // Security Professional APPROVED" },
+    { "id": "Aqbg3tv6bII", "title": "Here's Why Cyber Security May Not Be For You!" },
+    { "id": "K0-0PcO2CLM", "title": "You can't say you're a Cyber Security Proffesional without doing this!" },
+    { "id": "jIR3b0I0rVk", "title": "DO THIS if you use Chrome! #technology #cybersuccess #cybersecurity" },
+    { "id": "t6NT97t2X_4", "title": "What is Cyber Security, and how can you get a job?" },
+    { "id": "ImwJimIE_K8", "title": "DNS Explained Simply // How It Gets HACKED!" },
+    { "id": "4lSfAyH9kJE", "title": "THESE Are The Most Popular Jobs In Cyber Security! Which One Are You Most Interested In?!" },
+    { "id": "FJkihwdEKJo", "title": "Top Linux Commands You NEED To Know NOW!!! - With Demonstration!" },
+    { "id": "Vr3wuk2G9Jo", "title": "Looking For GREAT Cyber Security Courses?! Look No Futher!" },
+    { "id": "S8cfPitAoTU", "title": "3 Things I Wish I Knew. DO NOT Go Into Cyber Security Without Knowing!" }
+  ]
+}

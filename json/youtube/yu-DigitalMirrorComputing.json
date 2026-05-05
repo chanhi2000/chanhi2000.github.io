@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "DigitalMirrorComputing",
+    "name": "Digital Mirror",
+    "profile": "https://yt3.googleusercontent.com/meoQ5CGa_y0cMO4m4uIPWpwI_UcDdEZfW_hK18kL3tG4t3SyI3ci0FmNWOx9OVwQWqZnS47V=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nhunyLP7bZrpbt0f4o8aUupEzMpiJ8u2ab0xoMvcn84KRDfCgXQvH8Ezrk2iUfr48zK321ieTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kqZNFD0JNBc", "title": "Let's install Proxmox 8.3 in 2025: From Scratch. Spelled out." },
+    { "id": "zB2Mp5cBhAw", "title": "FULL TrueNAS Scale 24 Setup on the LincStation with an All-SSD Configuration (Snapshots & Jellyfin)" },
+    { "id": "GRfubKMzW-o", "title": "5Gb USB-C Ethernet for $19! A Hit or a MASSIVE FAIL?" },
+    { "id": "boJRnsRoqNs", "title": "Budget 10Gb Network UNDER $12 | Peer-to-Peer Tutorial with 2 x Intel X540-T2" },
+    { "id": "ilp3ZHTKPNg", "title": "Building the Simplest AI Neural Network From Scratch with just Math and Python - Origins of AI Ep.1" },
+    { "id": "ehiT05lWzxU", "title": "Your New HOMEPAGE Dashboard on a Raspberry Pi 5! Full Setup for Homepage + Docker + Portainer" },
+    { "id": "5JoVeYcxgpU", "title": "How I made a Team of AI agents manage my YouTube Channel and do all my work (CrewAI)" },
+    { "id": "jK_PZqeQ7BE", "title": "Run Any Hugging Face Model with Ollama in Just Minutes!" },
+    { "id": "IvGjWndvTk0", "title": "COMPLETE WireGuard on PFsense 2.7 Setup - Covering Windows, Mac, & Mobile + DuckDNS & Firewall 2024" },
+    { "id": "MLy6ECVp2Wk", "title": "Building a $122 DIY NAS, Local AI and Media Server - True Nas, Ollama, Jellyfin, Home Assistant" },
+    { "id": "OUz--MUBp2A", "title": "From Copilot to Captain! Self-host a Docker Ollama AI Remote Server with VSCode on ESXI & Debian" }
+  ]
+}
