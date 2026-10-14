@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "vanillacoding",
+    "name": "바닐라코딩",
+    "profile": "https://yt3.googleusercontent.com/47tcqsKkIVwRlJtn5bkra7oFi2kr4R81st6dzStl_pLAV0xrhNfOcmK16yCo1mAaQ7fLaO-p=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XjDQlzF__E-Z4ZxRleT8aWs4FWW6Uexr5nAel4MXuAX0CwiQZYEr3wljhEXYmNn-lb3RnmaWxg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yBAyESCjD9s", "title": "개발자라면 꼭 알아야 할 컴퓨터 기초 지식 [프로세서 - 산술논리장치]" },
+    { "id": "zMM4XVPLMi0", "title": "🥕당근 PM 출신 개발자의 Git 협업 성장기" },
+    { "id": "Ymns_j6Ag-k", "title": "[카카오/토스 개발자 피드백] 비전공자가 3주간 오픈소스 갈아엎다가 포기 직전까지 갔던 딥러닝 AI 프로젝트🎙️" },
+    { "id": "7_nNiLR5jRE", "title": "비전공자 프론트엔드 개발자의 화려한 프로젝트, 현업 개발자들 반응이 예상과는 전혀 달랐던 이유는?!" },
+    { "id": "Q-1A6XvM0kc", "title": "[2024 부트캠프 현실판] 수료생 취업 현황 전체공개 - 기업 측 인사 담당자 시청금지 ❌" },
+    { "id": "8mMb1YD0lJ0", "title": "눈물의 김밥을 이겨낸 비전공자, 프론트엔드 개발자로 취업 성공! 🥲" },
+    { "id": "CNPDpDfybmI", "title": "영혼까지 탈탈 털렸다! 카카오(+토스) 현업 개발자와 1:1 기술 담화 😰" },
+    { "id": "5HP5F-aNUf4", "title": "웹 어셈블리와 자바스크립트 성능 비교 프로젝트 🏇🏻 | 바닐라코딩 풀스택 부트캠프 17기" },
+    { "id": "lR27rlH4O7g", "title": "현직 개발자 추천으로 깊이있게 학습하는 부트캠프를 찾았어요 🖥️" },
+    { "id": "F69-VGuGtxU", "title": "12일 만에 취업에 성공한 웹 퍼블리셔 출신 신입 개발자가 말하는 이력서 성공 전략 및 취업 과정 ☘️" },
+    { "id": "dCr977cHuFg", "title": "[8/4 비공개 전환] 프론트엔드 1기 솔로 프로젝트" },
+    { "id": "AGxpRgpu0BY", "title": "Figma 디자인과 실제 웹사이트를 픽셀 단위로 비교해주는 서비스 ⚙️ | 바닐라코딩 풀스택 부트캠프 16기" },
+    { "id": "I4fst0j-cdU", "title": "3D iOS 게임, 핸드폰 기울기에 따라 공이 굴러가유 ⚽️ | 바닐라코딩 프론트엔드 부트캠프 1기" },
+    { "id": "YRqj_MsUpjU", "title": "🎯[모의면접] 개발자 라이브 코딩, 이렇게 준비하면 누구나 할 수 있어요! #트리구조 #탐색알고리즘 #DFS #라이브코딩 #개발자면접 #채용" },
+    { "id": "F2oUsZV7HCU", "title": "[잔소리 ASMR] 내 이력서는 왜 서류통과가 안될까? 😢" },
+    { "id": "HrDZFT6yxuk", "title": "당신의 읽기 속도를 측정해드립니다 📚 | 바닐라코딩 프론트엔드 부트캠프 1기" },
+    { "id": "6MoEPR1zJIk", "title": "대기업에서 문서작업하던 문과생들이 개발 배워서 PDF 문서 웹 에디터를 만들었다! 📋 | 바닐라코딩 부트캠프 14기 TEAM Thinking in Human 의 Noted" },
+    { "id": "pLsJN5pYusk", "title": "개발자 신입이 Next.js로 Vercel을 따라 만들다가 Headless CMS도 만들었다! 🤪 | 바닐라코딩 부트캠프 13기 우수수료생의 Jaam Toast" },
+    { "id": "jczi5dA1LLg", "title": "국회 비서관 출신 문과생이 자바스크립트 엔진 시각화했습니다 💫 | 바닐라코딩 부트캠프 14기 TEAM Code Blue 의 Heap Tracker" },
+    { "id": "FAiiB56Kczs", "title": "🕺🏻🕺🏻 코딩 4개월 만에 만든 흥겨운 오투잼! | 바닐라코딩 부트캠프" },
+    { "id": "mFMScKifrl0", "title": "🎯[한정공개] 부트캠프 수강생이 리액트 렌더링 내부 로직을 파헤친 결과 | 바닐라코딩 부트캠프" },
+    { "id": "2CIAJUHO8mg", "title": "💎[놀람주의] 인셉션 보신 분들 꼭 보세요. 진짜 신기한 3D 웹 프로젝트 👀 | 바닐라코딩 부트캠프" },
+    { "id": "r_383F8gY-o", "title": "자바스크립트로 나만의 iOS 게임을 만들다 🐷 | 바닐라코딩 부트캠프 13기 이정진의 Pigs can fly!" },
+    { "id": "Tql8BFjclvg", "title": "Tensorflow를 활용해 제스쳐를 학습하는 머신러닝 웹 그림판 🎨 | 바닐라코딩 부트캠프 14기 강현준의 Motion Draw" },
+    { "id": "Lc9OmBfY2iI", "title": "👩🏻‍🏫[인기] 평생직장 교사 그만두고, 2주만에 암벽등반 물리엔진까지 직접 구현했다고?! | 바닐라코딩 부트캠프" },
+    { "id": "q2_Wa-n9fr4", "title": "📽️ 웹으로 구현한 영상 에디터 최적화 작업 후기 feat. 선형보간법 💫 | 바닐라코딩 부트캠프" },
+    { "id": "zt7CDfHvcS8", "title": "개발 관련 참고 자료는 언제, 어떻게 활용해야 하쥬? 😫 | 페어 프로그래밍" },
+    { "id": "tS36y6-bBiw", "title": "자바스크립트 React Native로 나만의 AI 앱 서비스 구축하기 🤖 | 바닐라코딩 부트캠프" }
+  ]
+}

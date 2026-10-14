@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "interviewpen",
+    "name": "Interview Pen",
+    "profile": "https://yt3.googleusercontent.com/QVlvrPM_lVtr8IS1PjGG7vf7FXzR27lI_ezgN_23G5YQXAWvfjfRuvLhDZf3b9IwGplgQwKxDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U8zij5TNWorDHhlNs2rTAKV4u431lDN4m3_NqKBfCX7cPpF5xgbqZyunQHN7yifp7Xb1ZVPRlg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BJxtLbE5sxw", "title": "When to Use Redis as a Primary Database - Redis Deep Dive (1/4) | System Design" },
+    { "id": "ocGtt0IX0Js", "title": "HTTP/1.1 vs HTTP/2 vs HTTP/3 | System Design" },
+    { "id": "YDR3D2bsv9Y", "title": "Why does NoSQL exist? (MongoDB, Cassandra) | System Design" },
+    { "id": "gzUJ0N6jIb4", "title": "How do BLOB Stores Scale? (S3, GCS, MinIO) | System Design" },
+    { "id": "QkzarAFu7ZM", "title": "Design a Low-Latency Social Media Platform | System Design" },
+    { "id": "w8xWTIFU4C8", "title": "When to Use Kafka or RabbitMQ | System Design" },
+    { "id": "ArBL7eQwc_Q", "title": "Google's 1.3Pb/s \"Jupiter\" Network | System Design" },
+    { "id": "FoSCaue3lcg", "title": "Design an ML Recommendation Engine | System Design" },
+    { "id": "NZ_-2RB-NU0", "title": "Design a Data Warehouse | System Design" },
+    { "id": "TOyD-5QgpuE", "title": "Design a Code Execution System | System Design" },
+    { "id": "0Xc2YB2n1nw", "title": "Design an Email Automation Platform (Klaviyo, Mailchimp) | System Design" },
+    { "id": "FnsIJAaGRk4", "title": "How do Databases Work? | System Design" },
+    { "id": "lWnQtOIWiUY", "title": "Design a Scalable BLOB Store | System Design" },
+    { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" },
+    { "id": "v6qvrIY5Tgs", "title": "Design a Video Streaming Protocol (HLS, DASH) | System Design" },
+    { "id": "wiBSjzDyA48", "title": "Design a Fault Tolerant E-commerce System | System Design" },
+    { "id": "yKPVZgA6Oe0", "title": "What makes Kafka special? | System Design" },
+    { "id": "0LTXCcVRQi0", "title": "Design a Basic Search Engine (Google or Bing) | System Design Interview Prep" }, 
+    { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" }
+  ]
+}
