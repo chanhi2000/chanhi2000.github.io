@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "AndroidBroadcast",
+    "name": "Android Broadcast. Все об Андроид разработке",
+    "profile": "https://yt3.googleusercontent.com/71gdpA9EpmZKWckTt1z4mto0ecFkQmx9QCIi9XYZ1XNKcJblX6nUFAo_n-OAxnBSJk4frzicxkM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_qGI8BLDZQ7zS_SZZ5F16jJ0vzxTY9I4KMgf6XoMN_Y5Ngaluixfqd71Jz6fDQnn54DOi9YjMHc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ba7yUWi9HaA", "title": "KMP IDE от JetBrains // Новая схема релизов Android // Новые фичи Android Studio" },
+    { "id": "VY-cMNtJTMQ", "title": "Вы не поверите, насколько распространены эти ошибки в коде Android-проектов!" },
+    { "id": "zBUDOeXTjYg", "title": "Отвечаю на вопросы и обсуждаем грядущий сезон Mobius" },
+    { "id": "rheT3w9nGKE", "title": "Поддержка Kotlin Multiplatform в Jetpack | Сложности Android разработки" },
+    { "id": "BzfDjrjAu7Q", "title": "Как следить за качеством работы вашего кода. Tracer. Кирилл Попов" },
+    { "id": "_35l5Wwq0gI", "title": "Избавляемся от Context в бизнес логике   Как ответить на собеседовании" },
+    { "id": "4jc5sC3OKZo", "title": "Организация кода в проекте | В какой пакет положить Kotlin класс" },
+    { "id": "8bmTALuspV0", "title": "Релиз Android 15 | Google Play закрывает багхантинг | Новости мобильной разработки 2024.7" },
+    { "id": "1nWad--Tflk", "title": "Как выбрать компьютер для разработки под Android iOS KMP Flutter" },
+    { "id": "_0CbTuoL4ss", "title": "Запрет установки APK | Плагины IDEA больше не поставить | Compose 1.7" },
+    { "id": "HAJO9MuV2F8", "title": "Почему вам не нужен Kotlin Multiplatform" },
+    { "id": "Mcwqkngpn0Y", "title": "Почему вам стоит учить/использовать Kotlin Multiplatform" },
+    { "id": "WRzPejm9TNI", "title": "Отвечаю на вопросы и рассказываю про разработку следующего приложения" },
+    { "id": "3XwWeNb5jU0", "title": "Kotlin Набирает Обороты | Compose становится быстрее | Поддержка open source" },
+    { "id": "IfgLmzWyyKo", "title": "Разработка новостного приложения. Часть 6. Что я сделал не так" },
+    { "id": "KnHSf4DEXKg", "title": "Разработка новостного приложения. Часть 7. Загрузка в Google Play" },
+    { "id": "m7QpqVqc4YY", "title": "Ultron -  фреймворк для тестирования Android UI и Compose. Демо возможностей" },
+    { "id": "IK2LlPq3eTA", "title": "Как работает Android Work Profile" },
+    { "id": "6HJdn-qsqdo", "title": "Разбор кода магазина приложений" },
+    { "id": "pTyWagI8G5g", "title": "Немультиплатформенные привычки Android-разработки" },
+    { "id": "OW3vzC9UtLY", "title": "Разработка новостного приложения. Часть 5. Подготовка к публикации в Google Play" },
+    { "id": "yKE0XZW4KQA", "title": "Разбор кода Android приложения фоторедактора Image Toolbox" },
+    { "id": "sFGwK9D-_fw", "title": "Старт карьеры в Android-разработке до 18 лет" },
+    { "id": "_Vk5cBO7Gmk", "title": "Разбор кода приложения по доставке пиццы" },
+    { "id": "wAgQStuXoBM", "title": "Разработка новостного приложения. Часть 2. Логика загрузки данных из нескольких источников" },
+    { "id": "oN-BnHMhdp4", "title": "Как устроен Gradle Config Cache. Лучшие Практики. Интервью с инженером команды Gradle" },
+    { "id": "wykHeBdoLLY", "title": "Organic Maps - открытые оффлайн карты" },
+    { "id": "dzOh0ACle-0", "title": "Много графиков в `WebView` на Android. `TradingView`" }
+  ]
+}

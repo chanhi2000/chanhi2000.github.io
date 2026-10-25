@@ -1,0 +1,31 @@
+[
+  {
+    "repo": "adisbladis/kakapo",
+    "desc": "A Nix web bundler because why not",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tvlfyi/tvix",
+    "desc": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "koiuo/xdg-override",
+    "desc": "Override xdg-open behavior. Because the way it already works is not confusing enough",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/787439?v=4",
+    "banner": ""
+  }, {
+    "repo": "frectonz/pglite-fusion",
+    "desc": "Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.",
+    "officialSite": "",
+    "topics": ["sqlite", "postgresql", "multitenancy", "postgres-extension", "sqlite-in-postgres"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/902b1187a91f444bc3401991477dea0671fc23c9f86946f806127b70e59e8316/frectonz/pglite-fusion"
+  }
+]

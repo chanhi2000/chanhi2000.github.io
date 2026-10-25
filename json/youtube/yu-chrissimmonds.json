@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "chrissimmonds",
+    "name": "chris simmonds",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k15jcxpE80VboziJYbsRtf6cRSLo7RHh-5T7tWP3d2dvB0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3UzLowj-3xQ", "title": "2025 AOSP and AAOS January Meetup: Exploring Android Kiosk Variants" },
+    { "id": "YE7G_cwkAR8", "title": "2024 AOSP and AAOS November Meetup: The AOSP community and aosp-devs.org" },
+    { "id": "Q0BYKAb1BHw", "title": "2024 AOSP and AAOS July Meetup: AAOS on Raspberry Pi: an on-going project" },
+    { "id": "Hlixp4lOOQY", "title": "2024 AOSP and AAOS September Meetup: The COVESA SDK" },
+    { "id": "9UuQO6vVkv0", "title": "2024 AOSP and AAOS September Meetup: Notes from Vienna" },
+    { "id": "QXuIqwiiRFY", "title": "2024 AOSP and AAOS May Meetup: AOSP Meetup Projects" },
+    { "id": "Z-REBePidqA", "title": "2024 AOSP and AAOS May Meetup: introduction and Android build chaos" },
+    { "id": "zeH9LC2XHWs", "title": "2024 AOSP and AAOS May Meetup: Automotive AOSP Ecosystem: challenges and opportunities" },
+    { "id": "9gZOPiuy8zQ", "title": "2024 AOSP and AAOS March Meetup: What to expect in Android 15" },
+    { "id": "ZC2MELSKf98", "title": "2024 AOSP and AAOS March Meetup: Android Fragmentation in the Automotive Industry" }
+  ],
+  "playlists": [
+
+  ]
+}

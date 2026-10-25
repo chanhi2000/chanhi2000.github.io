@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "lpil",
+    "name": "Louis Pilfold",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lNwn1TzkJ4OCsTW17Ry22AzKPy-mW7spqU49CeFD_EUyk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XTMQ6-WlFKQ", "title": "Text search in Gleam and Erlang" },
+    { "id": "ZrTr_rwJmbA", "title": "Async / await for multiple tasks in Gleam" },
+    { "id": "mMT4Q43spsY", "title": "Type safe JSON in Gleam?" },
+    { "id": "JRsFAaR716k", "title": "Gleam programming (until I get bored or hungry)" },
+    { "id": "dk3n0HCjcSo", "title": "grep from scratch with Gleam v1.3.0!" },
+    { "id": "2L2dgEvETCU", "title": "GPS tracking my dad" },
+    { "id": "9vCV2l96jmE", "title": "Making a Gleam web app!" },
+    { "id": "uwBASmoxfyQ", "title": "Making atomics in Gleam!" },
+    { "id": "zwXjknPvhxc", "title": "Gleam web dev with Wisp and Lustre" },
+    { "id": "dh4dTntSdVQ", "title": "Gleam CRUD with SQLite" },
+    { "id": "eE9qqQB9BOQ", "title": "Getting CRUDdy with Gleam and Wisp 🤯" },
+    { "id": "pGw7tx3PLbE", "title": "Decoding JSON in Gleam, but better" },
+    { "id": "v75dM58WoPo", "title": "Rust compiler hacking for Gleam!" },
+    { "id": "D-v_Dd4BdMw", "title": "Using Erlang's new JSON module in Gleam" },
+    { "id": "clsTrQUt-4M", "title": "Gleam: Past, Present, Future! • Louis Pilfold @ FOSDEM 2024" },
+    { "id": "ab9fKYWNvik", "title": "Visualising Gleam package index growth" },
+    { "id": "RBO3mAeH6Ic", "title": "Making a Liberapay SDK with Gleam" },
+    { "id": "5eVBWbcnkBY", "title": "Making a Gleam web app starter kit!" },
+    { "id": "wv9iueiczvI", "title": "Adding database migrations to my Gleam web app" },
+    { "id": "MUoR4zK0Dzw", "title": "Making a HTML parser in Gleam" },
+    { "id": "pE8YryJz50o", "title": "Preparing Gleam v1.1.0!" },
+    { "id": "lW1SoGR1PMk", "title": "Gleam hacking for Lustre!" },
+    { "id": "iYfBswN2DKI", "title": "More Gleam hacking for Lustre!" },
+    { "id": "FP_gFGzzWjA", "title": "Reviewing your Gleam contributions!" },
+    { "id": "_lDjzVmWsWg", "title": "Building a Redis clone from scratch in Gleam" },
+    { "id": "fnDguyxFrHg", "title": "Making a Redis clone in Gleam" },
+    { "id": "3sCfcWqleVw", "title": "Parsing djot/markdown in Gleam" }
+  ],
+  "playlists": []
+}
